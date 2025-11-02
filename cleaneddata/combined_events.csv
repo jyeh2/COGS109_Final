@@ -1,443 +1,443 @@
-Attendance_Ratio,Event_Type,A.S. Advertisement Pass,AWARDED,DATE,Location_Type,Day_of_Week
-0.4598,Social,No,587.24,2024-09-24,Mandeville Auditorium,Tuesday
-0.5422,Social,No,1752.15,2024-09-24,Mandeville Auditorium,Tuesday
-0.796,Social,No,590.47,2024-09-25,Price Center,Wednesday
-1.5468,Social,No,407.3,2024-09-26,Revelle,Thursday
-1.1327,Workshop,No,123.6,2024-09-26,Price Center,Thursday
-0.7756,Social,No,4500.0,2024-09-27,Mandeville Auditorium,Friday
-0.3677,GBM,No,163.18,2024-09-27,Revelle,Friday
-0.4457,Social,No,3499.9,2024-09-27,SunGod,Friday
-0.6262,Social,No,3066.22,2024-09-29,Price Center,Sunday
-0.6089,Social,No,4499.66,2024-09-30,Price Center,Monday
-2.7979,GBM,No,78.63,2024-09-30,Price Center,Monday
-0.5668,Social,No,599.84,2024-10-01,Mandeville Auditorium,Tuesday
-4.5882000000000005,Speaker,No,595.0,2024-10-01,Price Center,Tuesday
-0.49029999999999996,GBM,No,163.18,2024-10-01,Revelle,Tuesday
-2.5333,Recruitment,No,600.0,2024-10-01,Pepper Canyon,Tuesday
-0.7395,GBM,No,540.91,2024-10-01,Price Center,Tuesday
-1.8225,Social,No,213.99,2024-10-01,SunGod,Tuesday
-7.312200000000001,GBM,No,129.92,2024-10-01,Price Center,Tuesday
-0.6429,Recruitment,No,1291.0,2024-10-01,Mandeville Auditorium,Tuesday
-1.4285999999999999,Workshop,No,595.0,2024-10-02,Warren,Wednesday
-5.7943,Social,No,41.42,2024-10-02,Price Center,Wednesday
-2.1701,Social,No,216.58,2024-10-02,Price Center,Wednesday
-1.806,GBM,No,498.34,2024-10-02,Pepper Canyon,Wednesday
-1.8368000000000002,Social,No,206.88,2024-10-02,Pepper Canyon,Wednesday
-1.1064,GBM,No,343.47,2024-10-02,Price Center,Wednesday
-0.2642,Workshop,No,227.08,2024-10-02,Warren,Wednesday
-0.030999999999999917,Social,No,322.98,2024-10-02,Price Center,Wednesday
-0.9535,GBM,No,1845.76,2024-10-02,Student Services Center,Wednesday
-0.9748,Recruitment,No,595.0,2024-10-03,Pepper Canyon,Thursday
-1.0986,Speaker,No,582.57,2024-10-03,Price Center,Thursday
-2.8341000000000003,Workshop,No,91.74,2024-10-03,Warren,Thursday
-2.5613,GBM,No,417.75,2024-10-03,Warren,Thursday
-2.2153,GBM,No,279.87,2024-10-03,Price Center,Thursday
-5.0437,Social,No,319.21,2024-10-04,Price Center,Friday
-1.7311,Workshop,No,595.0,2024-10-04,Warren,Friday
-10.083300000000001,GBM,No,120.0,2024-10-04,Mandeville Auditorium,Friday
-0.3667,Recruitment,No,600.0,2024-10-04,Pepper Canyon,Friday
-2.5119999999999996,Workshop,No,135.35,2024-10-04,Warren,Friday
-1.7306,Social,No,184.91,2024-10-04,Price Center,Friday
-0.7513,GBM,No,598.93,2024-10-04,Warren,Friday
-2.7,GBM,No,100.0,2024-10-04,Price Center,Friday
-0.9793,Social,No,275.71,2024-10-04,Pepper Canyon,Friday
-1.25,GBM,No,600.0,2024-10-04,Price Center,Friday
-1.9617,Recruitment,No,591.33,2024-10-04,SunGod,Friday
-1.75,Social,No,80.0,2024-10-04,Price Center,Friday
-1.0125,Recruitment,No,296.31,2024-10-06,Mandeville Auditorium,Sunday
-1.7040000000000002,GBM,No,328.64,2024-10-07,Pepper Canyon,Monday
-1.5293999999999999,Social,No,595.0,2024-10-07,Warren,Monday
-2.495,Social,No,597.2,2024-10-07,Mandeville Auditorium,Monday
-1.3766,GBM,No,1925.0,2024-10-08,Mandeville Auditorium,Tuesday
-2.2443,GBM,No,352.0,2024-10-08,Price Center,Tuesday
-1.3143,GBM,No,350.0,2024-10-08,Price Center,Tuesday
-1.9733,Workshop,No,152.03,2024-10-08,Warren,Tuesday
-0.5303,Social,No,339.41,2024-10-08,Price Center,Tuesday
-1.6269,GBM,No,338.07,2024-10-09,Price Center,Wednesday
-1.8151000000000002,Social,No,595.0,2024-10-09,Pepper Canyon,Wednesday
-7.430499999999999,GBM,No,320.3,2024-10-09,Price Center,Wednesday
-1.2005,GBM,No,216.58,2024-10-09,Price Center,Wednesday
-3.1247,GBM,No,115.21,2024-10-09,Price Center,Wednesday
-1.8904999999999998,GBM,No,349.11,2024-10-09,Pepper Canyon,Wednesday
-0.8824,GBM,No,170.0,2024-10-09,Price Center,Wednesday
-0.7558,GBM,No,344.01,2024-10-09,Price Center,Wednesday
-1.488,Social,No,241.94,2024-10-09,Price Center,Wednesday
-0.7167,Workshop,No,600.0,2024-10-09,Muir,Wednesday
-0.4829,Workshop,No,227.79,2024-10-09,Warren,Wednesday
-1.9599,GBM,No,163.27,2024-10-10,Revelle,Thursday
-6.998099999999999,GBM,No,82.88,2024-10-10,Price Center,Thursday
-0.5546,Workshop,No,595.0,2024-10-10,Pepper Canyon,Thursday
-0.8154,GBM,No,1814.99,2024-10-10,Price Center,Thursday
-0.609,Social,No,344.8,2024-10-10,SunGod,Thursday
-0.02859999999999996,GBM,No,350.0,2024-10-10,Price Center,Thursday
-0.03370000000000006,Recruitment,No,296.31,2024-10-10,Price Center,Thursday
-0.9112,GBM,No,296.31,2024-10-10,Warren,Thursday
-0.4013,GBM,No,199.34,2024-10-10,Warren,Thursday
-0.7538,Social,No,291.87,2024-10-10,Pepper Canyon,Thursday
-0.9709,Workshop,No,123.6,2024-10-10,Price Center,Thursday
-1.7167,Social,No,600.0,2024-10-11,Pepper Canyon,Friday
-0.016700000000000048,GBM,No,600.0,2024-10-11,Pepper Canyon,Friday
-1.5391,Social,No,597.75,2024-10-11,Warren,Friday
-0.5732999999999999,Workshop,No,313.99,2024-10-11,Warren,Friday
-0.46240000000000003,Competition,No,302.78,2024-10-11,Warren,Friday
-1.4358,GBM,No,397.0,2024-10-11,Price Center,Friday
-2.6911,GBM,No,174.65,2024-10-11,Price Center,Friday
-0.857,GBM,No,198.37,2024-10-11,Price Center,Friday
-1.7161,GBM,No,471.99,2024-10-11,Price Center,Friday
-0.044399999999999995,GBM,No,225.36,2024-10-11,Warren,Friday
-0.3665999999999999,Social,No,190.93,2024-10-11,SunGod,Friday
-0.10909999999999997,Competition,No,275.0,2024-10-11,Price Center,Friday
-1.6517,Workshop,No,314.82,2024-10-11,Warren,Friday
-1.0572,Social,No,3831.0,2024-10-12,Price Center,Saturday
-0.40670000000000006,GBM,No,270.45,2024-10-14,Warren,Monday
-1.0496,Recruitment,No,543.06,2024-10-14,Price Center,Monday
-0.4212,GBM,No,1780.71,2024-10-14,Price Center,Monday
-1.135,Social,No,484.57,2024-10-14,Price Center,Monday
-1.0604,Social,No,405.5,2024-10-14,SunGod,Monday
-0.03760000000000008,GBM,No,266.03,2024-10-15,Price Center,Tuesday
-1.4667,GBM,No,600.0,2024-10-15,Price Center,Tuesday
-2.3529,GBM,No,595.0,2024-10-15,Price Center,Tuesday
-1.0875,Social,No,349.43,2024-10-15,Price Center,Tuesday
-0.9916,Workshop,No,595.0,2024-10-15,Warren,Tuesday
-3.1912000000000003,Recruitment,No,307.09,2024-10-15,Revelle,Tuesday
-0.9001,Workshop,No,211.08,2024-10-15,Pepper Canyon,Tuesday
-0.4173,Religion,No,599.09,2024-10-15,Mandeville Auditorium,Tuesday
-1.396,GBM,No,351.0,2024-10-15,Price Center,Tuesday
-12.75,GBM,No,120.0,2024-10-15,Mandeville Auditorium,Tuesday
-1.0915,Social,No,284.0,2024-10-15,Price Center,Tuesday
-0.35,GBM,No,599.99,2024-10-16,Revelle,Wednesday
-1.3749,GBM,No,349.11,2024-10-16,Pepper Canyon,Wednesday
-1.3333,GBM,No,600.0,2024-10-16,Price Center,Wednesday
-0.8411,Workshop,No,344.8,2024-10-16,Warren,Wednesday
-3.7100999999999997,Speaker,Yes,86.25,2024-10-16,Price Center,Wednesday
-1.3342,Social,Yes,187.38,2024-10-16,Price Center,Wednesday
-0.9885,Workshop,No,303.5,2024-10-16,Price Center,Wednesday
-0.07200000000000006,Workshop,No,277.79,2024-10-16,Warren,Wednesday
-0.9192,GBM,Yes,163.18,2024-10-17,Revelle,Thursday
-0.02870000000000006,GBM,No,348.01,2024-10-17,Price Center,Thursday
-0.8144,Social,No,343.8,2024-10-17,Price Center,Thursday
-0.6212,Social,No,338.07,2024-10-17,Price Center,Thursday
-0.7059,Speaker,No,595.0,2024-10-17,Price Center,Thursday
-0.8425,Workshop,No,178.05,2024-10-17,Warren,Thursday
-1.6454,Workshop,No,97.24,2024-10-17,Warren,Thursday
-0.9861,Speaker,No,172.4,2024-10-17,Price Center,Thursday
-1.5642,GBM,No,191.79,2024-10-17,Pepper Canyon,Thursday
-0.6068,GBM,No,560.3,2024-10-17,Mandeville Auditorium,Thursday
-1.6000999999999999,GBM,No,156.24,2024-10-18,Pepper Canyon,Friday
-0.2876000000000001,Social,No,521.49,2024-10-18,Pepper Canyon,Friday
-0.6286,Social,No,350.0,2024-10-18,Price Center,Friday
-2.1017,Social,No,147.5,2024-10-18,Price Center,Friday
-1.6,Social,No,2000.0,2024-10-19,Mandeville Auditorium,Saturday
-0.6961999999999999,Recruitment,No,316.0,2024-10-21,Pepper Canyon,Monday
-2.428,Social,No,597.2,2024-10-21,Price Center,Monday
-1.7143000000000002,Social,No,350.0,2024-10-22,Price Center,Tuesday
-0.44189999999999996,Recruitment,No,543.06,2024-10-22,Price Center,Tuesday
-2.6704,Recruitment,No,453.12,2024-10-22,Warren,Tuesday
-1.2149,Recruitment,No,378.63,2024-10-22,Pepper Canyon,Tuesday
-1.9121,GBM,No,214.42,2024-10-23,Price Center,Wednesday
-4.1043,Social,Yes,41.42,2024-10-23,Price Center,Wednesday
-1.4036,GBM,Yes,349.11,2024-10-23,Pepper Canyon,Wednesday
-2.5946,Speaker,Yes,92.5,2024-10-23,Price Center,Wednesday
-1.2761,Workshop,Yes,258.6,2024-10-23,Price Center,Wednesday
-0.6708000000000001,GBM,No,298.14,2024-10-23,Price Center,Wednesday
-1.0286,Social,No,350.0,2024-10-24,Price Center,Thursday
-0.8579,GBM,Yes,163.18,2024-10-24,Revelle,Thursday
-0.7429,GBM,Yes,350.0,2024-10-24,Mandeville Auditorium,Thursday
-0.4756,Workshop,Yes,231.27,2024-10-24,Warren,Thursday
-0.5,Workshop,No,339.99,2024-10-24,Pepper Canyon,Thursday
-0.10959999999999992,Speaker,No,2280.71,2024-10-24,Price Center,Thursday
-1.9292,GBM,No,191.79,2024-10-24,Pepper Canyon,Thursday
-0.7368,Speaker,No,570.0,2024-10-24,Price Center,Thursday
-0.3340000000000001,Workshop,Yes,598.75,2024-10-24,Warren,Thursday
-0.7458,Social,Yes,147.5,2024-10-25,Price Center,Friday
-0.9071,Recruitment,Yes,2899.27,2024-10-27,Price Center,Sunday
-2.083,Social,No,2409.95,2024-10-27,Price Center,Sunday
-0.7831,Speaker,Yes,344.8,2024-10-28,Warren,Monday
-1.0911,Social,No,192.46,2024-10-28,Pepper Canyon,Monday
-4.4299,Social,No,42.89,2024-10-28,Warren,Monday
-0.9582,Other,No,281.79,2024-10-28,Pepper Canyon,Monday
-0.8718,GBM,No,470.27,2024-10-29,Warren,Tuesday
-0.9412,GBM,Yes,595.0,2024-10-29,Mandeville Auditorium,Tuesday
-0.7395,Workshop,Yes,595.0,2024-10-29,Warren,Tuesday
-1.0553,Social,Yes,255.84,2024-10-29,Pepper Canyon,Tuesday
-0.4667,GBM,Yes,599.99,2024-10-30,Revelle,Wednesday
-1.0309,Recruitment,Yes,242.5,2024-10-30,Price Center,Wednesday
-0.7087,Speaker,No,296.31,2024-10-30,Mandeville Auditorium,Wednesday
-2.2137000000000002,GBM,Yes,573.69,2024-10-30,Price Center,Wednesday
-1.0885,GBM,Yes,349.11,2024-10-30,Pepper Canyon,Wednesday
-0.9526,Religion,Yes,1154.71,2024-10-30,Price Center,Wednesday
-1.3822999999999999,Religion,No,209.79,2024-10-30,Mandeville Auditorium,Wednesday
-0.645,Religion,No,2000.0,2024-10-31,Price Center,Thursday
-2.15,Social,Yes,600.0,2024-10-31,North Campus,Thursday
-0.10439999999999994,GBM,No,191.49,2024-10-31,Pepper Canyon,Thursday
-1.2730000000000001,Social,Yes,573.45,2024-10-31,Price Center,Thursday
-0.8779,Social,Yes,6412.7,2024-11-02,Price Center,Saturday
-0.09999999999999998,Workshop,No,200.0,2024-11-02,North Campus,Saturday
-1.0462,Workshop,Yes,334.56,2024-11-04,Price Center,Monday
-0.8925,Social,No,246.49,2024-11-04,Price Center,Monday
-0.4656,Social,Yes,365.11,2024-11-05,Wong-Avery,Tuesday
-1.0125,Speaker,Yes,296.31,2024-11-05,Warren,Tuesday
-1.114,GBM,No,386.0,2024-11-05,Price Center,Tuesday
-1.4756,GBM,No,115.21,2024-11-06,Price Center,Wednesday
-1.2667,GBM,Yes,300.0,2024-11-06,Pepper Canyon,Wednesday
-0.9202,GBM,No,336.89,2024-11-06,Price Center,Wednesday
-0.7975,Workshop,Yes,250.78,2024-11-07,Price Center,Thursday
-0.9378,Workshop,Yes,234.59,2024-11-07,Pepper Canyon,Thursday
-0.05010000000000003,GBM,No,199.47,2024-11-07,Price Center,Thursday
-0.3255,Social,No,1290.18,2024-11-08,Price Center,Friday
-0.6609,GBM,No,348.0,2024-11-08,Price Center,Friday
-0.9563,Speaker,Yes,125.49,2024-11-12,Warren,Tuesday
-0.3667,GBM,No,300.0,2024-11-12,Price Center,Tuesday
-0.8141,Social,No,307.09,2024-11-12,Warren,Tuesday
-1.5236999999999998,Social,Yes,216.58,2024-11-13,Price Center,Wednesday
-1.3333,GBM,Yes,300.0,2024-11-13,Pepper Canyon,Wednesday
-2.3932,Social,No,58.5,2024-11-13,Price Center,Wednesday
-0.3345,GBM,No,597.84,2024-11-13,Price Center,Wednesday
-0.2451000000000001,GBM,No,163.18,2024-11-14,Revelle,Thursday
-0.6682,GBM,No,688.37,2024-11-14,Price Center,Thursday
-17.0293,Social,No,10.57,2024-11-14,SunGod,Thursday
-0.9533,GBM,No,597.9,2024-11-14,Warren,Thursday
-1.525,Social,No,400.0,2024-11-14,Price Center,Thursday
-1.1712,GBM,No,333.0,2024-11-15,Revelle,Friday
-1.6332,Workshop,No,85.72,2024-11-15,Price Center,Friday
-1.1273,Social,No,550.0,2024-11-15,Warren,Friday
-0.4375,Social,No,800.0,2024-11-16,Mandeville Auditorium,Saturday
-1.1056,Workshop,No,171.86,2024-11-18,Pepper Canyon,Monday
-1.9089,Social,No,597.2,2024-11-18,Mandeville Auditorium,Monday
-0.7125,Social,No,800.0,2024-11-18,Mandeville Auditorium,Monday
-1.504,GBM,No,199.47,2024-11-19,Price Center,Tuesday
-1.8931,GBM,No,216.58,2024-11-19,Warren,Tuesday
-4.3457,Social,No,41.42,2024-11-19,Price Center,Tuesday
-2.8548999999999998,Recruitment,No,504.4,2024-11-19,Price Center,Tuesday
-0.5627,Social,No,426.51,2024-11-19,North Campus,Tuesday
-0.32319999999999993,Social,No,557.0,2024-11-20,Wong-Avery,Wednesday
-1.4,GBM,No,300.0,2024-11-20,Pepper Canyon,Wednesday
-1.4528,Social,No,89.48,2024-11-20,Price Center,Wednesday
-1.7056,GBM,No,773.91,2024-11-20,Price Center,Wednesday
-0.9643,Speaker,No,280.0,2024-11-20,Warren,Wednesday
-0.7222,GBM,No,180.0,2024-11-20,Online,Wednesday
-1.6598000000000002,Social,No,180.75,2024-11-20,Price Center,Wednesday
-0.8364,Social,No,275.0,2024-11-21,Warren,Thursday
-0.12260000000000004,GBM,No,163.18,2024-11-21,Revelle,Thursday
-1.1667,Social,No,600.0,2024-11-21,Price Center,Thursday
-1.9241,GBM,No,109.14,2024-11-21,Mandeville Auditorium,Thursday
-1.2181,GBM,No,172.4,2024-11-21,Price Center,Thursday
-1.2635,Social,No,395.72,2024-11-21,Price Center,Thursday
-0.8299,Workshop,No,397.64,2024-11-21,Price Center,Thursday
-0.7209,GBM,No,1192.92,2024-11-21,Price Center,Thursday
-0.8149,Social,No,282.25,2024-11-21,Price Center,Thursday
-1.4891,GBM,No,517.09,2024-11-21,Warren,Thursday
-0.7455,GBM,No,550.0,2024-11-21,Warren,Thursday
-0.5052000000000001,Social,No,277.13,2024-11-21,Pepper Canyon,Thursday
-0.18359999999999999,Social,No,272.36,2024-11-22,Price Center,Friday
-0.9006000000000001,GBM,No,244.27,2024-11-22,Warren,Friday
-0.6195999999999999,Social,No,2501.55,2024-11-22,Library Walk,Friday
-1.1818,Social,No,253.85,2024-11-22,Price Center,Friday
-0.2508,Social,No,1076.62,2024-11-22,SunGod,Friday
-0.04949999999999999,Workshop,No,201.91,2024-11-22,Warren,Friday
-1.1343,Social,No,484.88,2024-11-22,Price Center,Friday
-2.4,Social,No,100.0,2024-11-23,Theater District,Saturday
-1.6995,Social,No,482.5,2024-11-24,Price Center,Sunday
-1.1385,GBM,No,650.0,2024-11-25,Pepper Canyon,Monday
-0.07469999999999999,Speaker,No,401.58,2024-11-26,Pepper Canyon,Tuesday
-0.17500000000000004,GBM,No,400.0,2024-11-26,Pepper Canyon,Tuesday
-0.9398,Social,No,510.74,2024-11-26,Pepper Canyon,Tuesday
-1.5568,Recruitment,No,404.67,2024-11-26,Warren,Tuesday
-0.6684000000000001,GBM,No,388.98,2024-11-26,Price Center,Tuesday
-0.6960999999999999,Social,No,301.67,2024-11-27,Price Center,Wednesday
-1.1764999999999999,Social,No,340.0,2024-12-02,Price Center,Monday
-0.4286,Workshop,No,280.0,2024-12-02,Warren,Monday
-1.3267,Social,No,97.99,2024-12-02,Mandeville Auditorium,Monday
-1.0164,GBM,No,226.29,2024-12-02,North Campus,Monday
-1.6536,Social,No,641.03,2024-12-02,Price Center,Monday
-0.8771,Recruitment,No,490.26,2024-12-03,Price Center,Tuesday
-1.1667,Social,No,300.0,2024-12-04,Pepper Canyon,Wednesday
-0.51,GBM,No,451.0,2024-12-04,Revelle,Wednesday
-9.0,Recruitment,No,240.0,2024-12-04,Price Center,Wednesday
-0.5334000000000001,Social,No,281.19,2024-12-04,Pepper Canyon,Wednesday
-0.050000000000000044,Social,No,200.0,2024-12-04,Price Center,Wednesday
-1.0769,Social,No,390.0,2024-12-04,Price Center,Wednesday
-1.0828,Social,No,258.6,2024-12-04,Pepper Canyon,Wednesday
-0.9059,Competition,No,264.94,2024-12-05,Price Center,Thursday
-0.8579,GBM,No,163.18,2024-12-05,Revelle,Thursday
-0.8332999999999999,Social,No,384.0,2024-12-05,Price Center,Thursday
-0.7342,Social,No,449.48,2024-12-05,Mandeville Auditorium,Thursday
-0.5006999999999999,Religion,No,559.23,2024-12-05,Mandeville Auditorium,Thursday
-4.2791,Social,No,53.75,2024-12-05,Warren,Thursday
-0.5797,Social,No,396.77,2024-12-05,Price Center,Thursday
-0.7048,Social,No,525.0,2024-12-06,Price Center,Friday
-0.10260000000000002,Social,No,195.0,2024-12-06,Pepper Canyon,Friday
-0.6548,GBM,No,351.24,2024-12-06,Price Center,Friday
-0.9726,Social,No,246.75,2024-12-06,Price Center,Friday
-0.7217,Social,No,346.42,2024-12-07,Muir,Saturday
-1.4285999999999999,Religion,No,350.0,2025-01-06,Price Center,Monday
-2.0436,Social,No,641.03,2025-01-06,Price Center,Monday
-0.7,GBM,No,400.0,2025-01-07,Mandeville Auditorium,Tuesday
-0.5700000000000001,Social,No,4000.0,2025-01-07,Warren,Tuesday
-5.3107,Competition,Yes,37.66,2025-01-07,Price Center,Tuesday
-0.16449999999999998,GBM,Yes,182.4,2025-01-08,Price Center,Wednesday
-0.7667,GBM,Yes,300.0,2025-01-08,Pepper Canyon,Wednesday
-0.4132,GBM,Yes,774.52,2025-01-08,Warren,Wednesday
-1.1429,Social,Yes,210.0,2025-01-08,Price Center,Wednesday
-2.3116,GBM,Yes,1038.23,2025-01-08,Price Center,Wednesday
-1.3185,Social,Yes,189.61,2025-01-09,Pepper Canyon,Thursday
-0.3259000000000001,Social,No,398.88,2025-01-09,Price Center,Thursday
-0.6793,GBM,Yes,323.84,2025-01-09,Price Center,Thursday
-1.9903,GBM,Yes,371.8,2025-01-09,Warren,Thursday
-0.4,Competition,No,500.0,2025-01-09,Price Center,Thursday
-0.7667,GBM,Yes,600.0,2025-01-09,Price Center,Thursday
-1.6181,Recruitment,No,259.57,2025-01-09,Warren,Thursday
-1.3333,GBM,Yes,210.0,2025-01-10,Price Center,Friday
-0.7596,Social,Yes,210.65,2025-01-10,Price Center,Friday
-1.6718000000000002,Social,Yes,149.54,2025-01-10,Price Center,Friday
-0.5953999999999999,GBM,Yes,386.3,2025-01-10,Warren,Friday
-4.1906,GBM,Yes,319.76,2025-01-10,Pepper Canyon,Friday
-3.5422,GBM,Yes,333.13,2025-01-13,Price Center,Monday
-1.0151,GBM,Yes,344.8,2025-01-13,Pepper Canyon,Monday
-2.003,GBM,No,299.55,2025-01-13,Warren,Monday
-0.8145,GBM,Yes,196.43,2025-01-13,Price Center,Monday
-0.48950000000000005,GBM,Yes,510.74,2025-01-14,Warren,Tuesday
-0.7807999999999999,GBM,Yes,537.94,2025-01-14,Warren,Tuesday
-0.9408,Speaker,No,393.29,2025-01-14,Price Center,Tuesday
-0.5171,Social,Yes,232.07,2025-01-14,Warren,Tuesday
-1.8404,GBM,No,412.96,2025-01-14,Price Center,Tuesday
-2.3014,GBM,No,182.5,2025-01-14,Pepper Canyon,Tuesday
-2.3014,GBM,No,182.5,2025-01-14,Pepper Canyon,Tuesday
-1.9854,GBM,Yes,216.58,2025-01-15,Price Center,Wednesday
-2.2527,GBM,Yes,93.22,2025-01-15,Price Center,Wednesday
-2.0,Recruitment,No,300.0,2025-01-15,Pepper Canyon,Wednesday
-0.2623000000000001,GBM,Yes,495.65,2025-01-16,Price Center,Thursday
-0.7,Workshop,Yes,400.0,2025-01-16,Price Center,Thursday
-0.40290000000000004,Workshop,No,347.49,2025-01-16,Warren,Thursday
-0.7362,Social,No,312.41,2025-01-16,Price Center,Thursday
-0.5689,GBM,No,439.44,2025-01-17,Price Center,Friday
-0.6799999999999999,Workshop,Yes,1500.0,2025-01-17,Mandeville Auditorium,Friday
-2.2356,GBM,Yes,438.37,2025-01-17,Price Center,Friday
-0.39549999999999996,GBM,Yes,1668.75,2025-01-17,Muir,Friday
-1.1949,Workshop,Yes,1606.89,2025-01-17,Price Center,Friday
-1.7433,GBM,Yes,326.96,2025-01-17,Price Center,Friday
-1.2374,Workshop,No,193.95,2025-01-17,Warren,Friday
-0.9971,GBM,No,591.69,2025-01-17,Price Center,Friday
-0.778,Recruitment,Yes,179.94,2025-01-17,Pepper Canyon,Friday
-0.8085,Competition,No,1434.75,2025-01-18,Price Center,Saturday
-4.0229,GBM,Yes,554.33,2025-01-18,Price Center,Saturday
-0.4174,Recruitment,No,599.0,2025-01-20,Warren,Monday
-1.0813,Social,No,231.21,2025-01-21,Pepper Canyon,Tuesday
-1.6091,GBM,Yes,93.22,2025-01-21,Price Center,Tuesday
-0.6676,Recruitment,Yes,569.2,2025-01-21,Pepper Canyon,Tuesday
-0.3081999999999999,Recruitment,No,259.57,2025-01-21,Pepper Canyon,Tuesday
-1.1521,Speaker,Yes,173.59,2025-01-21,Pepper Canyon,Tuesday
-1.8506999999999998,Social,Yes,156.7,2025-01-21,Price Center,Tuesday
-0.5737,GBM,Yes,296.31,2025-01-21,Price Center,Tuesday
-0.675,Recruitment,Yes,400.0,2025-01-21,Warren,Tuesday
-1.3333,Recruitment,No,300.0,2025-01-22,Pepper Canyon,Wednesday
-2.3256,Workshop,No,86.0,2025-01-22,Price Center,Wednesday
-0.6592,Speaker,Yes,273.07,2025-01-22,Wong-Avery,Wednesday
-0.8964,Workshop,Yes,178.5,2025-01-22,Price Center,Wednesday
-0.7831,Religion,Yes,344.8,2025-01-22,Price Center,Wednesday
-1.875,GBM,No,80.0,2025-01-22,Price Center,Wednesday
-1.4849,GBM,Yes,215.5,2025-01-22,Pepper Canyon,Wednesday
-2.9404,GBM,Yes,112.23,2025-01-22,Warren,Wednesday
-1.0,Speaker,No,,2025-01-23,Price Center,Thursday
-0.95,Social,Yes,200.0,2025-01-23,Price Center,Thursday
-1.0446,GBM,No,248.9,2025-01-23,Price Center,Thursday
-1.3326,Workshop,Yes,105.06,2025-01-23,Warren,Thursday
-0.6315999999999999,Competition,Yes,285.0,2025-01-23,Warren,Thursday
-2.2744999999999997,GBM,No,189.05,2025-01-24,Price Center,Friday
-0.7292000000000001,GBM,No,288.0,2025-01-24,Pepper Canyon,Friday
-0.5722,GBM,No,349.5,2025-01-24,Price Center,Friday
-0.5593,Recruitment,No,3647.41,2025-01-24,Student Services Center,Friday
-1.04,GBM,No,250.0,2025-01-24,Sixth,Friday
-0.33599999999999997,Speaker,Yes,505.89,2025-01-24,Warren,Friday
-0.7914,Workshop,No,189.53,2025-01-24,Warren,Friday
-0.5286,Recruitment,Yes,700.0,2025-01-25,Warren,Saturday
-1.2622,Workshop,No,134.69,2025-01-27,Pepper Canyon,Monday
-0.5,Recruitment,Yes,400.0,2025-01-27,Warren,Monday
-0.09909999999999997,Religion,Yes,1412.5,2025-01-27,Price Center,Monday
-0.28,GBM,Yes,250.0,2025-01-27,Revelle,Monday
-0.8074,Speaker,No,198.17,2025-01-27,Warren,Monday
-0.9708,Competition,No,659.26,2025-01-27,Price Center,Monday
-0.7848999999999999,GBM,No,216.58,2025-01-28,Price Center,Tuesday
-1.1813,Workshop,Yes,237.02,2025-01-28,Price Center,Tuesday
-1.4541,Workshop,No,178.81,2025-01-28,Pepper Canyon,Tuesday
-1.0667,Recruitment,No,300.0,2025-01-29,Pepper Canyon,Wednesday
-0.9982,Workshop,No,100.18,2025-01-29,Warren,Wednesday
-0.8007,Religion,No,549.53,2025-01-29,Pepper Canyon,Wednesday
-1.6040999999999999,Religion,Yes,305.47,2025-01-29,Price Center,Wednesday
-0.6667000000000001,Social,Yes,510.0,2025-01-29,Price Center,Wednesday
-1.7587000000000002,Workshop,Yes,147.84,2025-01-29,Pepper Canyon,Wednesday
-0.6964,Workshop,Yes,215.39,2025-01-29,Warren,Wednesday
-0.6536,Speaker,Yes,382.51,2025-01-30,Price Center,Thursday
-0.4,Recruitment,Yes,300.0,2025-01-30,Price Center,Thursday
-0.5309,Social,Yes,263.72,2025-01-30,Warren,Thursday
-1.1045,Workshop,Yes,552.27,2025-01-31,Warren,Friday
-1.3456000000000001,Workshop,Yes,297.27,2025-01-31,Price Center,Friday
-0.13069999999999993,Religion,Yes,3518.75,2025-02-01,Price Center,Saturday
-0.18830000000000002,Competition,Yes,584.1,2025-02-01,Warren,Saturday
-6.9815,Social,No,157.56,2025-02-01,Mandeville Auditorium,Saturday
-0.05799999999999994,Competition,No,862.0,2025-02-01,Warren,Saturday
-0.30090000000000006,Competition,No,1163.27,2025-02-01,Warren,Saturday
-1.8592,Social,Yes,742.24,2025-02-03,Price Center,Monday
-1.0918,Social,Yes,366.36,2025-02-03,Price Center,Monday
-0.6461,GBM,Yes,510.74,2025-02-04,Warren,Tuesday
-1.8007,GBM,No,216.58,2025-02-04,Warren,Tuesday
-0.9939,Social,No,261.59,2025-02-04,Warren,Tuesday
-0.40180000000000005,Social,Yes,273.79,2025-02-04,Pepper Canyon,Tuesday
-1.2667,Recruitment,No,300.0,2025-02-05,Pepper Canyon,Wednesday
-1.2394,GBM,Yes,161.37,2025-02-05,Mandeville Auditorium,Wednesday
-0.75,Religion,No,400.0,2025-02-05,Price Center,Wednesday
-0.7010000000000001,Social,Yes,242.5,2025-02-05,Price Center,Wednesday
-0.7142999999999999,Religion,No,559.95,2025-02-05,Mandeville Auditorium,Wednesday
-1.6334,Workshop,No,134.69,2025-02-05,Warren,Wednesday
-0.6694,Recruitment,Yes,597.59,2025-02-06,Pepper Canyon,Thursday
-2.1382,GBM,Yes,182.4,2025-02-06,Warren,Thursday
-0.7035,GBM,No,1293.59,2025-02-06,Price Center,Thursday
-0.6682,Workshop,No,134.69,2025-02-06,Warren,Thursday
-0.6136999999999999,Social,No,293.31,2025-02-07,Pepper Canyon,Friday
-0.6682,Social,No,134.69,2025-02-07,Warren,Friday
-1.0,GBM,Yes,,2025-02-10,Revelle,Monday
-0.6399,Religion,No,343.83,2025-02-10,Library Walk,Monday
-1.5385,GBM,No,65.0,2025-02-10,Revelle,Monday
-0.2551000000000001,Social,No,1528.58,2025-02-10,Mandeville Auditorium,Monday
-1.2467000000000001,GBM,No,216.58,2025-02-10,Pepper Canyon,Monday
-0.6163000000000001,Social,No,243.4,2025-02-10,Pepper Canyon,Monday
-3.0151,Speaker,No,19.9,2025-02-10,Price Center,Monday
-0.6629,GBM,No,150.86,2025-02-10,Price Center,Monday
-0.8069999999999999,GBM,Yes,173.48,2025-02-10,Student Services Center,Monday
-0.8773,GBM,No,216.58,2025-02-11,Price Center,Tuesday
-0.05799999999999994,Social,No,172.45,2025-02-11,Mandeville Auditorium,Tuesday
-1.2528000000000001,Religion,No,263.41,2025-02-11,Library Walk,Tuesday
-0.20209999999999995,Social,No,247.4,2025-02-11,Price Center,Tuesday
-0.44210000000000005,Speaker,No,384.5,2025-02-11,Mandeville Auditorium,Tuesday
-0.04290000000000005,Workshop,No,233.19,2025-02-11,Warren,Tuesday
-0.9697,Competition,No,330.0,2025-02-11,Warren,Tuesday
-0.31000000000000005,Social,No,1999.85,2025-02-11,Price Center,Tuesday
-2.0713999999999997,Social,Yes,140.0,2025-02-11,Pepper Canyon,Tuesday
-0.9333,Recruitment,No,300.0,2025-02-12,Pepper Canyon,Wednesday
-1.2124,Social,Yes,181.46,2025-02-12,Pepper Canyon,Wednesday
-0.45210000000000006,Social,No,1481.94,2025-02-12,Mandeville Auditorium,Wednesday
-0.7593,Religion,No,263.41,2025-02-12,Library Walk,Wednesday
-0.4353,GBM,No,344.58,2025-02-12,Price Center,Wednesday
-0.5,Social,Yes,200.0,2025-02-12,Price Center,Wednesday
-0.7087,GBM,No,296.31,2025-02-12,North Campus,Wednesday
-1.0335,GBM,Yes,474.1,2025-02-12,Pepper Canyon,Wednesday
-0.8418,Workshop,Yes,178.2,2025-02-12,Pepper Canyon,Wednesday
-0.8975,GBM,Yes,467.97,2025-02-12,Price Center,Wednesday
-0.3679,Speaker,Yes,598.05,2025-02-13,Price Center,Thursday
-0.9588,Social,Yes,198.16,2025-02-13,Price Center,Thursday
-5.4661,Social,No,203.07,2025-02-13,North Campus,Thursday
-0.09840000000000004,Social,No,101.66,2025-02-13,Price Center,Thursday
-2.5713999999999997,Speaker,No,70.0,2025-02-13,Price Center,Thursday
-0.9384,Social,No,500.85,2025-02-13,Price Center,Thursday
-0.8653,GBM,No,404.5,2025-02-13,Library Walk,Thursday
-0.3791,Social,No,1529.86,2025-02-13,Mandeville Auditorium,Thursday
-1.9661,Social,No,147.5,2025-02-14,Price Center,Friday
-0.9711,Workshop,Yes,164.76,2025-02-14,Warren,Friday
-3.1363,Workshop,No,86.09,2025-02-15,Warren,Saturday
-0.5789,Social,No,397.32,2025-02-15,SunGod,Saturday
-0.9853,Social,Yes,10402.7,2025-02-15,Price Center,Saturday
-0.139,Workshop,No,143.85,2025-02-17,Off Campus,Monday
-0.8,GBM,No,200.0,2025-02-18,Price Center,Tuesday
-1.8107,Workshop,Yes,215.39,2025-02-18,Warren,Tuesday
-0.35739999999999994,Speaker,No,251.85,2025-02-18,Price Center,Tuesday
-0.42990000000000006,Speaker,No,232.63,2025-02-18,Warren,Tuesday
+Attendance_Ratio,DATE,Location_Type,AWARDED,A.S. Advertisement Pass,Event_Type,Day_of_Week
+0.4598,2024-09-24,Mandeville Auditorium,587.24,No,Social,Tuesday
+0.5422,2024-09-24,Mandeville Auditorium,1752.15,No,Social,Tuesday
+0.796,2024-09-25,Price Center,590.47,No,Social,Wednesday
+1.5468,2024-09-26,Revelle,407.3,No,Social,Thursday
+1.1327,2024-09-26,Price Center,123.6,No,Workshop,Thursday
+0.7756,2024-09-27,Mandeville Auditorium,4500.0,No,Social,Friday
+0.3677,2024-09-27,Revelle,163.18,No,GBM,Friday
+0.4457,2024-09-27,SunGod,3499.9,No,Social,Friday
+0.6262,2024-09-29,Price Center,3066.22,No,Social,Sunday
+0.6089,2024-09-30,Price Center,4499.66,No,Social,Monday
+2.7979,2024-09-30,Price Center,78.63,No,GBM,Monday
+0.5668,2024-10-01,Mandeville Auditorium,599.84,No,Social,Tuesday
+4.5882000000000005,2024-10-01,Price Center,595.0,No,Speaker,Tuesday
+0.49029999999999996,2024-10-01,Revelle,163.18,No,GBM,Tuesday
+2.5333,2024-10-01,Pepper Canyon,600.0,No,Recruitment,Tuesday
+0.7395,2024-10-01,Price Center,540.91,No,GBM,Tuesday
+1.8225,2024-10-01,SunGod,213.99,No,Social,Tuesday
+7.312200000000001,2024-10-01,Price Center,129.92,No,GBM,Tuesday
+0.6429,2024-10-01,Mandeville Auditorium,1291.0,No,Recruitment,Tuesday
+1.4285999999999999,2024-10-02,Warren,595.0,No,Workshop,Wednesday
+5.7943,2024-10-02,Price Center,41.42,No,Social,Wednesday
+2.1701,2024-10-02,Price Center,216.58,No,Social,Wednesday
+1.806,2024-10-02,Pepper Canyon,498.34,No,GBM,Wednesday
+1.8368000000000002,2024-10-02,Pepper Canyon,206.88,No,Social,Wednesday
+1.1064,2024-10-02,Price Center,343.47,No,GBM,Wednesday
+0.2642,2024-10-02,Warren,227.08,No,Workshop,Wednesday
+0.030999999999999917,2024-10-02,Price Center,322.98,No,Social,Wednesday
+0.9535,2024-10-02,Student Services Center,1845.76,No,GBM,Wednesday
+0.9748,2024-10-03,Pepper Canyon,595.0,No,Recruitment,Thursday
+1.0986,2024-10-03,Price Center,582.57,No,Speaker,Thursday
+2.8341000000000003,2024-10-03,Warren,91.74,No,Workshop,Thursday
+2.5613,2024-10-03,Warren,417.75,No,GBM,Thursday
+2.2153,2024-10-03,Price Center,279.87,No,GBM,Thursday
+5.0437,2024-10-04,Price Center,319.21,No,Social,Friday
+1.7311,2024-10-04,Warren,595.0,No,Workshop,Friday
+10.083300000000001,2024-10-04,Mandeville Auditorium,120.0,No,GBM,Friday
+0.3667,2024-10-04,Pepper Canyon,600.0,No,Recruitment,Friday
+2.5119999999999996,2024-10-04,Warren,135.35,No,Workshop,Friday
+1.7306,2024-10-04,Price Center,184.91,No,Social,Friday
+0.7513,2024-10-04,Warren,598.93,No,GBM,Friday
+2.7,2024-10-04,Price Center,100.0,No,GBM,Friday
+0.9793,2024-10-04,Pepper Canyon,275.71,No,Social,Friday
+1.25,2024-10-04,Price Center,600.0,No,GBM,Friday
+1.9617,2024-10-04,SunGod,591.33,No,Recruitment,Friday
+1.75,2024-10-04,Price Center,80.0,No,Social,Friday
+1.0125,2024-10-06,Mandeville Auditorium,296.31,No,Recruitment,Sunday
+1.7040000000000002,2024-10-07,Pepper Canyon,328.64,No,GBM,Monday
+1.5293999999999999,2024-10-07,Warren,595.0,No,Social,Monday
+2.495,2024-10-07,Mandeville Auditorium,597.2,No,Social,Monday
+1.3766,2024-10-08,Mandeville Auditorium,1925.0,No,GBM,Tuesday
+2.2443,2024-10-08,Price Center,352.0,No,GBM,Tuesday
+1.3143,2024-10-08,Price Center,350.0,No,GBM,Tuesday
+1.9733,2024-10-08,Warren,152.03,No,Workshop,Tuesday
+0.5303,2024-10-08,Price Center,339.41,No,Social,Tuesday
+1.6269,2024-10-09,Price Center,338.07,No,GBM,Wednesday
+1.8151000000000002,2024-10-09,Pepper Canyon,595.0,No,Social,Wednesday
+7.430499999999999,2024-10-09,Price Center,320.3,No,GBM,Wednesday
+1.2005,2024-10-09,Price Center,216.58,No,GBM,Wednesday
+3.1247,2024-10-09,Price Center,115.21,No,GBM,Wednesday
+1.8904999999999998,2024-10-09,Pepper Canyon,349.11,No,GBM,Wednesday
+0.8824,2024-10-09,Price Center,170.0,No,GBM,Wednesday
+0.7558,2024-10-09,Price Center,344.01,No,GBM,Wednesday
+1.488,2024-10-09,Price Center,241.94,No,Social,Wednesday
+0.7167,2024-10-09,Muir,600.0,No,Workshop,Wednesday
+0.4829,2024-10-09,Warren,227.79,No,Workshop,Wednesday
+1.9599,2024-10-10,Revelle,163.27,No,GBM,Thursday
+6.998099999999999,2024-10-10,Price Center,82.88,No,GBM,Thursday
+0.5546,2024-10-10,Pepper Canyon,595.0,No,Workshop,Thursday
+0.8154,2024-10-10,Price Center,1814.99,No,GBM,Thursday
+0.609,2024-10-10,SunGod,344.8,No,Social,Thursday
+0.02859999999999996,2024-10-10,Price Center,350.0,No,GBM,Thursday
+0.03370000000000006,2024-10-10,Price Center,296.31,No,Recruitment,Thursday
+0.9112,2024-10-10,Warren,296.31,No,GBM,Thursday
+0.4013,2024-10-10,Warren,199.34,No,GBM,Thursday
+0.7538,2024-10-10,Pepper Canyon,291.87,No,Social,Thursday
+0.9709,2024-10-10,Price Center,123.6,No,Workshop,Thursday
+1.7167,2024-10-11,Pepper Canyon,600.0,No,Social,Friday
+0.016700000000000048,2024-10-11,Pepper Canyon,600.0,No,GBM,Friday
+1.5391,2024-10-11,Warren,597.75,No,Social,Friday
+0.5732999999999999,2024-10-11,Warren,313.99,No,Workshop,Friday
+0.46240000000000003,2024-10-11,Warren,302.78,No,Competition,Friday
+1.4358,2024-10-11,Price Center,397.0,No,GBM,Friday
+2.6911,2024-10-11,Price Center,174.65,No,GBM,Friday
+0.857,2024-10-11,Price Center,198.37,No,GBM,Friday
+1.7161,2024-10-11,Price Center,471.99,No,GBM,Friday
+0.044399999999999995,2024-10-11,Warren,225.36,No,GBM,Friday
+0.3665999999999999,2024-10-11,SunGod,190.93,No,Social,Friday
+0.10909999999999997,2024-10-11,Price Center,275.0,No,Competition,Friday
+1.6517,2024-10-11,Warren,314.82,No,Workshop,Friday
+1.0572,2024-10-12,Price Center,3831.0,No,Social,Saturday
+0.40670000000000006,2024-10-14,Warren,270.45,No,GBM,Monday
+1.0496,2024-10-14,Price Center,543.06,No,Recruitment,Monday
+0.4212,2024-10-14,Price Center,1780.71,No,GBM,Monday
+1.135,2024-10-14,Price Center,484.57,No,Social,Monday
+1.0604,2024-10-14,SunGod,405.5,No,Social,Monday
+0.03760000000000008,2024-10-15,Price Center,266.03,No,GBM,Tuesday
+1.4667,2024-10-15,Price Center,600.0,No,GBM,Tuesday
+2.3529,2024-10-15,Price Center,595.0,No,GBM,Tuesday
+1.0875,2024-10-15,Price Center,349.43,No,Social,Tuesday
+0.9916,2024-10-15,Warren,595.0,No,Workshop,Tuesday
+3.1912000000000003,2024-10-15,Revelle,307.09,No,Recruitment,Tuesday
+0.9001,2024-10-15,Pepper Canyon,211.08,No,Workshop,Tuesday
+0.4173,2024-10-15,Mandeville Auditorium,599.09,No,Religion,Tuesday
+1.396,2024-10-15,Price Center,351.0,No,GBM,Tuesday
+12.75,2024-10-15,Mandeville Auditorium,120.0,No,GBM,Tuesday
+1.0915,2024-10-15,Price Center,284.0,No,Social,Tuesday
+0.35,2024-10-16,Revelle,599.99,No,GBM,Wednesday
+1.3749,2024-10-16,Pepper Canyon,349.11,No,GBM,Wednesday
+1.3333,2024-10-16,Price Center,600.0,No,GBM,Wednesday
+0.8411,2024-10-16,Warren,344.8,No,Workshop,Wednesday
+3.7100999999999997,2024-10-16,Price Center,86.25,Yes,Speaker,Wednesday
+1.3342,2024-10-16,Price Center,187.38,Yes,Social,Wednesday
+0.9885,2024-10-16,Price Center,303.5,No,Workshop,Wednesday
+0.07200000000000006,2024-10-16,Warren,277.79,No,Workshop,Wednesday
+0.9192,2024-10-17,Revelle,163.18,Yes,GBM,Thursday
+0.02870000000000006,2024-10-17,Price Center,348.01,No,GBM,Thursday
+0.8144,2024-10-17,Price Center,343.8,No,Social,Thursday
+0.6212,2024-10-17,Price Center,338.07,No,Social,Thursday
+0.7059,2024-10-17,Price Center,595.0,No,Speaker,Thursday
+0.8425,2024-10-17,Warren,178.05,No,Workshop,Thursday
+1.6454,2024-10-17,Warren,97.24,No,Workshop,Thursday
+0.9861,2024-10-17,Price Center,172.4,No,Speaker,Thursday
+1.5642,2024-10-17,Pepper Canyon,191.79,No,GBM,Thursday
+0.6068,2024-10-17,Mandeville Auditorium,560.3,No,GBM,Thursday
+1.6000999999999999,2024-10-18,Pepper Canyon,156.24,No,GBM,Friday
+0.2876000000000001,2024-10-18,Pepper Canyon,521.49,No,Social,Friday
+0.6286,2024-10-18,Price Center,350.0,No,Social,Friday
+2.1017,2024-10-18,Price Center,147.5,No,Social,Friday
+1.6,2024-10-19,Mandeville Auditorium,2000.0,No,Social,Saturday
+0.6961999999999999,2024-10-21,Pepper Canyon,316.0,No,Recruitment,Monday
+2.428,2024-10-21,Price Center,597.2,No,Social,Monday
+1.7143000000000002,2024-10-22,Price Center,350.0,No,Social,Tuesday
+0.44189999999999996,2024-10-22,Price Center,543.06,No,Recruitment,Tuesday
+2.6704,2024-10-22,Warren,453.12,No,Recruitment,Tuesday
+1.2149,2024-10-22,Pepper Canyon,378.63,No,Recruitment,Tuesday
+1.9121,2024-10-23,Price Center,214.42,No,GBM,Wednesday
+4.1043,2024-10-23,Price Center,41.42,Yes,Social,Wednesday
+1.4036,2024-10-23,Pepper Canyon,349.11,Yes,GBM,Wednesday
+2.5946,2024-10-23,Price Center,92.5,Yes,Speaker,Wednesday
+1.2761,2024-10-23,Price Center,258.6,Yes,Workshop,Wednesday
+0.6708000000000001,2024-10-23,Price Center,298.14,No,GBM,Wednesday
+1.0286,2024-10-24,Price Center,350.0,No,Social,Thursday
+0.8579,2024-10-24,Revelle,163.18,Yes,GBM,Thursday
+0.7429,2024-10-24,Mandeville Auditorium,350.0,Yes,GBM,Thursday
+0.4756,2024-10-24,Warren,231.27,Yes,Workshop,Thursday
+0.5,2024-10-24,Pepper Canyon,339.99,No,Workshop,Thursday
+0.10959999999999992,2024-10-24,Price Center,2280.71,No,Speaker,Thursday
+1.9292,2024-10-24,Pepper Canyon,191.79,No,GBM,Thursday
+0.7368,2024-10-24,Price Center,570.0,No,Speaker,Thursday
+0.3340000000000001,2024-10-24,Warren,598.75,Yes,Workshop,Thursday
+0.7458,2024-10-25,Price Center,147.5,Yes,Social,Friday
+0.9071,2024-10-27,Price Center,2899.27,Yes,Recruitment,Sunday
+2.083,2024-10-27,Price Center,2409.95,No,Social,Sunday
+0.7831,2024-10-28,Warren,344.8,Yes,Speaker,Monday
+1.0911,2024-10-28,Pepper Canyon,192.46,No,Social,Monday
+4.4299,2024-10-28,Warren,42.89,No,Social,Monday
+0.9582,2024-10-28,Pepper Canyon,281.79,No,Other,Monday
+0.8718,2024-10-29,Warren,470.27,No,GBM,Tuesday
+0.9412,2024-10-29,Mandeville Auditorium,595.0,Yes,GBM,Tuesday
+0.7395,2024-10-29,Warren,595.0,Yes,Workshop,Tuesday
+1.0553,2024-10-29,Pepper Canyon,255.84,Yes,Social,Tuesday
+0.4667,2024-10-30,Revelle,599.99,Yes,GBM,Wednesday
+1.0309,2024-10-30,Price Center,242.5,Yes,Recruitment,Wednesday
+0.7087,2024-10-30,Mandeville Auditorium,296.31,No,Speaker,Wednesday
+2.2137000000000002,2024-10-30,Price Center,573.69,Yes,GBM,Wednesday
+1.0885,2024-10-30,Pepper Canyon,349.11,Yes,GBM,Wednesday
+0.9526,2024-10-30,Price Center,1154.71,Yes,Religion,Wednesday
+1.3822999999999999,2024-10-30,Mandeville Auditorium,209.79,No,Religion,Wednesday
+0.645,2024-10-31,Price Center,2000.0,No,Religion,Thursday
+2.15,2024-10-31,North Campus,600.0,Yes,Social,Thursday
+0.10439999999999994,2024-10-31,Pepper Canyon,191.49,No,GBM,Thursday
+1.2730000000000001,2024-10-31,Price Center,573.45,Yes,Social,Thursday
+0.8779,2024-11-02,Price Center,6412.7,Yes,Social,Saturday
+0.09999999999999998,2024-11-02,North Campus,200.0,No,Workshop,Saturday
+1.0462,2024-11-04,Price Center,334.56,Yes,Workshop,Monday
+0.8925,2024-11-04,Price Center,246.49,No,Social,Monday
+0.4656,2024-11-05,Wong-Avery,365.11,Yes,Social,Tuesday
+1.0125,2024-11-05,Warren,296.31,Yes,Speaker,Tuesday
+1.114,2024-11-05,Price Center,386.0,No,GBM,Tuesday
+1.4756,2024-11-06,Price Center,115.21,No,GBM,Wednesday
+1.2667,2024-11-06,Pepper Canyon,300.0,Yes,GBM,Wednesday
+0.9202,2024-11-06,Price Center,336.89,No,GBM,Wednesday
+0.7975,2024-11-07,Price Center,250.78,Yes,Workshop,Thursday
+0.9378,2024-11-07,Pepper Canyon,234.59,Yes,Workshop,Thursday
+0.05010000000000003,2024-11-07,Price Center,199.47,No,GBM,Thursday
+0.3255,2024-11-08,Price Center,1290.18,No,Social,Friday
+0.6609,2024-11-08,Price Center,348.0,No,GBM,Friday
+0.9563,2024-11-12,Warren,125.49,Yes,Speaker,Tuesday
+0.3667,2024-11-12,Price Center,300.0,No,GBM,Tuesday
+0.8141,2024-11-12,Warren,307.09,No,Social,Tuesday
+1.5236999999999998,2024-11-13,Price Center,216.58,Yes,Social,Wednesday
+1.3333,2024-11-13,Pepper Canyon,300.0,Yes,GBM,Wednesday
+2.3932,2024-11-13,Price Center,58.5,No,Social,Wednesday
+0.3345,2024-11-13,Price Center,597.84,No,GBM,Wednesday
+0.2451000000000001,2024-11-14,Revelle,163.18,No,GBM,Thursday
+0.6682,2024-11-14,Price Center,688.37,No,GBM,Thursday
+17.0293,2024-11-14,SunGod,10.57,No,Social,Thursday
+0.9533,2024-11-14,Warren,597.9,No,GBM,Thursday
+1.525,2024-11-14,Price Center,400.0,No,Social,Thursday
+1.1712,2024-11-15,Revelle,333.0,No,GBM,Friday
+1.6332,2024-11-15,Price Center,85.72,No,Workshop,Friday
+1.1273,2024-11-15,Warren,550.0,No,Social,Friday
+0.4375,2024-11-16,Mandeville Auditorium,800.0,No,Social,Saturday
+1.1056,2024-11-18,Pepper Canyon,171.86,No,Workshop,Monday
+1.9089,2024-11-18,Mandeville Auditorium,597.2,No,Social,Monday
+0.7125,2024-11-18,Mandeville Auditorium,800.0,No,Social,Monday
+1.504,2024-11-19,Price Center,199.47,No,GBM,Tuesday
+1.8931,2024-11-19,Warren,216.58,No,GBM,Tuesday
+4.3457,2024-11-19,Price Center,41.42,No,Social,Tuesday
+2.8548999999999998,2024-11-19,Price Center,504.4,No,Recruitment,Tuesday
+0.5627,2024-11-19,North Campus,426.51,No,Social,Tuesday
+0.32319999999999993,2024-11-20,Wong-Avery,557.0,No,Social,Wednesday
+1.4,2024-11-20,Pepper Canyon,300.0,No,GBM,Wednesday
+1.4528,2024-11-20,Price Center,89.48,No,Social,Wednesday
+1.7056,2024-11-20,Price Center,773.91,No,GBM,Wednesday
+0.9643,2024-11-20,Warren,280.0,No,Speaker,Wednesday
+0.7222,2024-11-20,Online,180.0,No,GBM,Wednesday
+1.6598000000000002,2024-11-20,Price Center,180.75,No,Social,Wednesday
+0.8364,2024-11-21,Warren,275.0,No,Social,Thursday
+0.12260000000000004,2024-11-21,Revelle,163.18,No,GBM,Thursday
+1.1667,2024-11-21,Price Center,600.0,No,Social,Thursday
+1.9241,2024-11-21,Mandeville Auditorium,109.14,No,GBM,Thursday
+1.2181,2024-11-21,Price Center,172.4,No,GBM,Thursday
+1.2635,2024-11-21,Price Center,395.72,No,Social,Thursday
+0.8299,2024-11-21,Price Center,397.64,No,Workshop,Thursday
+0.7209,2024-11-21,Price Center,1192.92,No,GBM,Thursday
+0.8149,2024-11-21,Price Center,282.25,No,Social,Thursday
+1.4891,2024-11-21,Warren,517.09,No,GBM,Thursday
+0.7455,2024-11-21,Warren,550.0,No,GBM,Thursday
+0.5052000000000001,2024-11-21,Pepper Canyon,277.13,No,Social,Thursday
+0.18359999999999999,2024-11-22,Price Center,272.36,No,Social,Friday
+0.9006000000000001,2024-11-22,Warren,244.27,No,GBM,Friday
+0.6195999999999999,2024-11-22,Library Walk,2501.55,No,Social,Friday
+1.1818,2024-11-22,Price Center,253.85,No,Social,Friday
+0.2508,2024-11-22,SunGod,1076.62,No,Social,Friday
+0.04949999999999999,2024-11-22,Warren,201.91,No,Workshop,Friday
+1.1343,2024-11-22,Price Center,484.88,No,Social,Friday
+2.4,2024-11-23,Theater District,100.0,No,Social,Saturday
+1.6995,2024-11-24,Price Center,482.5,No,Social,Sunday
+1.1385,2024-11-25,Pepper Canyon,650.0,No,GBM,Monday
+0.07469999999999999,2024-11-26,Pepper Canyon,401.58,No,Speaker,Tuesday
+0.17500000000000004,2024-11-26,Pepper Canyon,400.0,No,GBM,Tuesday
+0.9398,2024-11-26,Pepper Canyon,510.74,No,Social,Tuesday
+1.5568,2024-11-26,Warren,404.67,No,Recruitment,Tuesday
+0.6684000000000001,2024-11-26,Price Center,388.98,No,GBM,Tuesday
+0.6960999999999999,2024-11-27,Price Center,301.67,No,Social,Wednesday
+1.1764999999999999,2024-12-02,Price Center,340.0,No,Social,Monday
+0.4286,2024-12-02,Warren,280.0,No,Workshop,Monday
+1.3267,2024-12-02,Mandeville Auditorium,97.99,No,Social,Monday
+1.0164,2024-12-02,North Campus,226.29,No,GBM,Monday
+1.6536,2024-12-02,Price Center,641.03,No,Social,Monday
+0.8771,2024-12-03,Price Center,490.26,No,Recruitment,Tuesday
+1.1667,2024-12-04,Pepper Canyon,300.0,No,Social,Wednesday
+0.51,2024-12-04,Revelle,451.0,No,GBM,Wednesday
+9.0,2024-12-04,Price Center,240.0,No,Recruitment,Wednesday
+0.5334000000000001,2024-12-04,Pepper Canyon,281.19,No,Social,Wednesday
+0.050000000000000044,2024-12-04,Price Center,200.0,No,Social,Wednesday
+1.0769,2024-12-04,Price Center,390.0,No,Social,Wednesday
+1.0828,2024-12-04,Pepper Canyon,258.6,No,Social,Wednesday
+0.9059,2024-12-05,Price Center,264.94,No,Competition,Thursday
+0.8579,2024-12-05,Revelle,163.18,No,GBM,Thursday
+0.8332999999999999,2024-12-05,Price Center,384.0,No,Social,Thursday
+0.7342,2024-12-05,Mandeville Auditorium,449.48,No,Social,Thursday
+0.5006999999999999,2024-12-05,Mandeville Auditorium,559.23,No,Religion,Thursday
+4.2791,2024-12-05,Warren,53.75,No,Social,Thursday
+0.5797,2024-12-05,Price Center,396.77,No,Social,Thursday
+0.7048,2024-12-06,Price Center,525.0,No,Social,Friday
+0.10260000000000002,2024-12-06,Pepper Canyon,195.0,No,Social,Friday
+0.6548,2024-12-06,Price Center,351.24,No,GBM,Friday
+0.9726,2024-12-06,Price Center,246.75,No,Social,Friday
+0.7217,2024-12-07,Muir,346.42,No,Social,Saturday
+1.4285999999999999,2025-01-06,Price Center,350.0,No,Religion,Monday
+2.0436,2025-01-06,Price Center,641.03,No,Social,Monday
+0.7,2025-01-07,Mandeville Auditorium,400.0,No,GBM,Tuesday
+0.5700000000000001,2025-01-07,Warren,4000.0,No,Social,Tuesday
+5.3107,2025-01-07,Price Center,37.66,Yes,Competition,Tuesday
+0.16449999999999998,2025-01-08,Price Center,182.4,Yes,GBM,Wednesday
+0.7667,2025-01-08,Pepper Canyon,300.0,Yes,GBM,Wednesday
+0.4132,2025-01-08,Warren,774.52,Yes,GBM,Wednesday
+1.1429,2025-01-08,Price Center,210.0,Yes,Social,Wednesday
+2.3116,2025-01-08,Price Center,1038.23,Yes,GBM,Wednesday
+1.3185,2025-01-09,Pepper Canyon,189.61,Yes,Social,Thursday
+0.3259000000000001,2025-01-09,Price Center,398.88,No,Social,Thursday
+0.6793,2025-01-09,Price Center,323.84,Yes,GBM,Thursday
+1.9903,2025-01-09,Warren,371.8,Yes,GBM,Thursday
+0.4,2025-01-09,Price Center,500.0,No,Competition,Thursday
+0.7667,2025-01-09,Price Center,600.0,Yes,GBM,Thursday
+1.6181,2025-01-09,Warren,259.57,No,Recruitment,Thursday
+1.3333,2025-01-10,Price Center,210.0,Yes,GBM,Friday
+0.7596,2025-01-10,Price Center,210.65,Yes,Social,Friday
+1.6718000000000002,2025-01-10,Price Center,149.54,Yes,Social,Friday
+0.5953999999999999,2025-01-10,Warren,386.3,Yes,GBM,Friday
+4.1906,2025-01-10,Pepper Canyon,319.76,Yes,GBM,Friday
+3.5422,2025-01-13,Price Center,333.13,Yes,GBM,Monday
+1.0151,2025-01-13,Pepper Canyon,344.8,Yes,GBM,Monday
+2.003,2025-01-13,Warren,299.55,No,GBM,Monday
+0.8145,2025-01-13,Price Center,196.43,Yes,GBM,Monday
+0.48950000000000005,2025-01-14,Warren,510.74,Yes,GBM,Tuesday
+0.7807999999999999,2025-01-14,Warren,537.94,Yes,GBM,Tuesday
+0.9408,2025-01-14,Price Center,393.29,No,Speaker,Tuesday
+0.5171,2025-01-14,Warren,232.07,Yes,Social,Tuesday
+1.8404,2025-01-14,Price Center,412.96,No,GBM,Tuesday
+2.3014,2025-01-14,Pepper Canyon,182.5,No,GBM,Tuesday
+2.3014,2025-01-14,Pepper Canyon,182.5,No,GBM,Tuesday
+1.9854,2025-01-15,Price Center,216.58,Yes,GBM,Wednesday
+2.2527,2025-01-15,Price Center,93.22,Yes,GBM,Wednesday
+2.0,2025-01-15,Pepper Canyon,300.0,No,Recruitment,Wednesday
+0.2623000000000001,2025-01-16,Price Center,495.65,Yes,GBM,Thursday
+0.7,2025-01-16,Price Center,400.0,Yes,Workshop,Thursday
+0.40290000000000004,2025-01-16,Warren,347.49,No,Workshop,Thursday
+0.7362,2025-01-16,Price Center,312.41,No,Social,Thursday
+0.5689,2025-01-17,Price Center,439.44,No,GBM,Friday
+0.6799999999999999,2025-01-17,Mandeville Auditorium,1500.0,Yes,Workshop,Friday
+2.2356,2025-01-17,Price Center,438.37,Yes,GBM,Friday
+0.39549999999999996,2025-01-17,Muir,1668.75,Yes,GBM,Friday
+1.1949,2025-01-17,Price Center,1606.89,Yes,Workshop,Friday
+1.7433,2025-01-17,Price Center,326.96,Yes,GBM,Friday
+1.2374,2025-01-17,Warren,193.95,No,Workshop,Friday
+0.9971,2025-01-17,Price Center,591.69,No,GBM,Friday
+0.778,2025-01-17,Pepper Canyon,179.94,Yes,Recruitment,Friday
+0.8085,2025-01-18,Price Center,1434.75,No,Competition,Saturday
+4.0229,2025-01-18,Price Center,554.33,Yes,GBM,Saturday
+0.4174,2025-01-20,Warren,599.0,No,Recruitment,Monday
+1.0813,2025-01-21,Pepper Canyon,231.21,No,Social,Tuesday
+1.6091,2025-01-21,Price Center,93.22,Yes,GBM,Tuesday
+0.6676,2025-01-21,Pepper Canyon,569.2,Yes,Recruitment,Tuesday
+0.3081999999999999,2025-01-21,Pepper Canyon,259.57,No,Recruitment,Tuesday
+1.1521,2025-01-21,Pepper Canyon,173.59,Yes,Speaker,Tuesday
+1.8506999999999998,2025-01-21,Price Center,156.7,Yes,Social,Tuesday
+0.5737,2025-01-21,Price Center,296.31,Yes,GBM,Tuesday
+0.675,2025-01-21,Warren,400.0,Yes,Recruitment,Tuesday
+1.3333,2025-01-22,Pepper Canyon,300.0,No,Recruitment,Wednesday
+2.3256,2025-01-22,Price Center,86.0,No,Workshop,Wednesday
+0.6592,2025-01-22,Wong-Avery,273.07,Yes,Speaker,Wednesday
+0.8964,2025-01-22,Price Center,178.5,Yes,Workshop,Wednesday
+0.7831,2025-01-22,Price Center,344.8,Yes,Religion,Wednesday
+1.875,2025-01-22,Price Center,80.0,No,GBM,Wednesday
+1.4849,2025-01-22,Pepper Canyon,215.5,Yes,GBM,Wednesday
+2.9404,2025-01-22,Warren,112.23,Yes,GBM,Wednesday
+1.0,2025-01-23,Price Center,,No,Speaker,Thursday
+0.95,2025-01-23,Price Center,200.0,Yes,Social,Thursday
+1.0446,2025-01-23,Price Center,248.9,No,GBM,Thursday
+1.3326,2025-01-23,Warren,105.06,Yes,Workshop,Thursday
+0.6315999999999999,2025-01-23,Warren,285.0,Yes,Competition,Thursday
+2.2744999999999997,2025-01-24,Price Center,189.05,No,GBM,Friday
+0.7292000000000001,2025-01-24,Pepper Canyon,288.0,No,GBM,Friday
+0.5722,2025-01-24,Price Center,349.5,No,GBM,Friday
+0.5593,2025-01-24,Student Services Center,3647.41,No,Recruitment,Friday
+1.04,2025-01-24,Sixth,250.0,No,GBM,Friday
+0.33599999999999997,2025-01-24,Warren,505.89,Yes,Speaker,Friday
+0.7914,2025-01-24,Warren,189.53,No,Workshop,Friday
+0.5286,2025-01-25,Warren,700.0,Yes,Recruitment,Saturday
+1.2622,2025-01-27,Pepper Canyon,134.69,No,Workshop,Monday
+0.5,2025-01-27,Warren,400.0,Yes,Recruitment,Monday
+0.09909999999999997,2025-01-27,Price Center,1412.5,Yes,Religion,Monday
+0.28,2025-01-27,Revelle,250.0,Yes,GBM,Monday
+0.8074,2025-01-27,Warren,198.17,No,Speaker,Monday
+0.9708,2025-01-27,Price Center,659.26,No,Competition,Monday
+0.7848999999999999,2025-01-28,Price Center,216.58,No,GBM,Tuesday
+1.1813,2025-01-28,Price Center,237.02,Yes,Workshop,Tuesday
+1.4541,2025-01-28,Pepper Canyon,178.81,No,Workshop,Tuesday
+1.0667,2025-01-29,Pepper Canyon,300.0,No,Recruitment,Wednesday
+0.9982,2025-01-29,Warren,100.18,No,Workshop,Wednesday
+0.8007,2025-01-29,Pepper Canyon,549.53,No,Religion,Wednesday
+1.6040999999999999,2025-01-29,Price Center,305.47,Yes,Religion,Wednesday
+0.6667000000000001,2025-01-29,Price Center,510.0,Yes,Social,Wednesday
+1.7587000000000002,2025-01-29,Pepper Canyon,147.84,Yes,Workshop,Wednesday
+0.6964,2025-01-29,Warren,215.39,Yes,Workshop,Wednesday
+0.6536,2025-01-30,Price Center,382.51,Yes,Speaker,Thursday
+0.4,2025-01-30,Price Center,300.0,Yes,Recruitment,Thursday
+0.5309,2025-01-30,Warren,263.72,Yes,Social,Thursday
+1.1045,2025-01-31,Warren,552.27,Yes,Workshop,Friday
+1.3456000000000001,2025-01-31,Price Center,297.27,Yes,Workshop,Friday
+0.13069999999999993,2025-02-01,Price Center,3518.75,Yes,Religion,Saturday
+0.18830000000000002,2025-02-01,Warren,584.1,Yes,Competition,Saturday
+6.9815,2025-02-01,Mandeville Auditorium,157.56,No,Social,Saturday
+0.05799999999999994,2025-02-01,Warren,862.0,No,Competition,Saturday
+0.30090000000000006,2025-02-01,Warren,1163.27,No,Competition,Saturday
+1.8592,2025-02-03,Price Center,742.24,Yes,Social,Monday
+1.0918,2025-02-03,Price Center,366.36,Yes,Social,Monday
+0.6461,2025-02-04,Warren,510.74,Yes,GBM,Tuesday
+1.8007,2025-02-04,Warren,216.58,No,GBM,Tuesday
+0.9939,2025-02-04,Warren,261.59,No,Social,Tuesday
+0.40180000000000005,2025-02-04,Pepper Canyon,273.79,Yes,Social,Tuesday
+1.2667,2025-02-05,Pepper Canyon,300.0,No,Recruitment,Wednesday
+1.2394,2025-02-05,Mandeville Auditorium,161.37,Yes,GBM,Wednesday
+0.75,2025-02-05,Price Center,400.0,No,Religion,Wednesday
+0.7010000000000001,2025-02-05,Price Center,242.5,Yes,Social,Wednesday
+0.7142999999999999,2025-02-05,Mandeville Auditorium,559.95,No,Religion,Wednesday
+1.6334,2025-02-05,Warren,134.69,No,Workshop,Wednesday
+0.6694,2025-02-06,Pepper Canyon,597.59,Yes,Recruitment,Thursday
+2.1382,2025-02-06,Warren,182.4,Yes,GBM,Thursday
+0.7035,2025-02-06,Price Center,1293.59,No,GBM,Thursday
+0.6682,2025-02-06,Warren,134.69,No,Workshop,Thursday
+0.6136999999999999,2025-02-07,Pepper Canyon,293.31,No,Social,Friday
+0.6682,2025-02-07,Warren,134.69,No,Social,Friday
+1.0,2025-02-10,Revelle,,Yes,GBM,Monday
+0.6399,2025-02-10,Library Walk,343.83,No,Religion,Monday
+1.5385,2025-02-10,Revelle,65.0,No,GBM,Monday
+0.2551000000000001,2025-02-10,Mandeville Auditorium,1528.58,No,Social,Monday
+1.2467000000000001,2025-02-10,Pepper Canyon,216.58,No,GBM,Monday
+0.6163000000000001,2025-02-10,Pepper Canyon,243.4,No,Social,Monday
+3.0151,2025-02-10,Price Center,19.9,No,Speaker,Monday
+0.6629,2025-02-10,Price Center,150.86,No,GBM,Monday
+0.8069999999999999,2025-02-10,Student Services Center,173.48,Yes,GBM,Monday
+0.8773,2025-02-11,Price Center,216.58,No,GBM,Tuesday
+0.05799999999999994,2025-02-11,Mandeville Auditorium,172.45,No,Social,Tuesday
+1.2528000000000001,2025-02-11,Library Walk,263.41,No,Religion,Tuesday
+0.20209999999999995,2025-02-11,Price Center,247.4,No,Social,Tuesday
+0.44210000000000005,2025-02-11,Mandeville Auditorium,384.5,No,Speaker,Tuesday
+0.04290000000000005,2025-02-11,Warren,233.19,No,Workshop,Tuesday
+0.9697,2025-02-11,Warren,330.0,No,Competition,Tuesday
+0.31000000000000005,2025-02-11,Price Center,1999.85,No,Social,Tuesday
+2.0713999999999997,2025-02-11,Pepper Canyon,140.0,Yes,Social,Tuesday
+0.9333,2025-02-12,Pepper Canyon,300.0,No,Recruitment,Wednesday
+1.2124,2025-02-12,Pepper Canyon,181.46,Yes,Social,Wednesday
+0.45210000000000006,2025-02-12,Mandeville Auditorium,1481.94,No,Social,Wednesday
+0.7593,2025-02-12,Library Walk,263.41,No,Religion,Wednesday
+0.4353,2025-02-12,Price Center,344.58,No,GBM,Wednesday
+0.5,2025-02-12,Price Center,200.0,Yes,Social,Wednesday
+0.7087,2025-02-12,North Campus,296.31,No,GBM,Wednesday
+1.0335,2025-02-12,Pepper Canyon,474.1,Yes,GBM,Wednesday
+0.8418,2025-02-12,Pepper Canyon,178.2,Yes,Workshop,Wednesday
+0.8975,2025-02-12,Price Center,467.97,Yes,GBM,Wednesday
+0.3679,2025-02-13,Price Center,598.05,Yes,Speaker,Thursday
+0.9588,2025-02-13,Price Center,198.16,Yes,Social,Thursday
+5.4661,2025-02-13,North Campus,203.07,No,Social,Thursday
+0.09840000000000004,2025-02-13,Price Center,101.66,No,Social,Thursday
+2.5713999999999997,2025-02-13,Price Center,70.0,No,Speaker,Thursday
+0.9384,2025-02-13,Price Center,500.85,No,Social,Thursday
+0.8653,2025-02-13,Library Walk,404.5,No,GBM,Thursday
+0.3791,2025-02-13,Mandeville Auditorium,1529.86,No,Social,Thursday
+1.9661,2025-02-14,Price Center,147.5,No,Social,Friday
+0.9711,2025-02-14,Warren,164.76,Yes,Workshop,Friday
+3.1363,2025-02-15,Warren,86.09,No,Workshop,Saturday
+0.5789,2025-02-15,SunGod,397.32,No,Social,Saturday
+0.9853,2025-02-15,Price Center,10402.7,Yes,Social,Saturday
+0.139,2025-02-17,Off Campus,143.85,No,Workshop,Monday
+0.8,2025-02-18,Price Center,200.0,No,GBM,Tuesday
+1.8107,2025-02-18,Warren,215.39,Yes,Workshop,Tuesday
+0.35739999999999994,2025-02-18,Price Center,251.85,No,Speaker,Tuesday
+0.42990000000000006,2025-02-18,Warren,232.63,No,Speaker,Tuesday
