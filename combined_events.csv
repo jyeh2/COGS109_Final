@@ -1,0 +1,596 @@
+A.S. Advertisement Pass,Location_Type,VENUE,AWARDED,Attendance_Ratio,DATE,Event_Type,Day_of_Week
+No,Mandeville Auditorium,Student Center Courtyard,587.24,0.4598,2024-09-24,Social,Tuesday
+No,Mandeville Auditorium,Multipurpose Room,1752.15,0.5422,2024-09-24,Social,Tuesday
+No,Pepper Canyon,Epstein Family Amphitheater,7931.74,0.0,2024-09-24,Social,Tuesday
+No,Price Center,Bear Room/Red Shoe Room,600.0,0.0,2024-09-24,Social,Tuesday
+No,Price Center,Green Table Room (Price Center),296.31,0.0,2024-09-25,GBM,Wednesday
+No,Price Center,ERC Room,316.7,0.0,2024-09-25,Social,Wednesday
+No,Price Center,"ERC Room, Marshall College Room",590.47,0.796,2024-09-25,Social,Wednesday
+-,Mandeville Auditorium,Huerta-Vera Cruz Room,539.02,0.0,2024-09-26,Social,Thursday
+-,Revelle,Stage Room,407.3,1.5468,2024-09-26,Social,Thursday
+-,Mandeville Auditorium,Town Square and Matthew’s Quad,4499.16,0.0,2024-09-26,Social,Thursday
+-,Price Center,Price Center - Green Table Room,123.6,1.1327,2024-09-26,Workshop,Thursday
+-,Library Walk,Outdoor Tabling Library Walk 1974,91.91,0.0,2024-09-26,Recruitment,Thursday
+-,Mandeville Auditorium,Mandeville Auditorium,4500.0,0.7756,2024-09-27,Social,Friday
+-,Revelle,NSB Auditorium,163.18,0.3677,2024-09-27,GBM,Friday
+-,SunGod,Sun God Lawn,3499.9,0.4457,2024-09-27,Social,Friday
+-,Library Walk,Outdoor Tabling Library Walk 1976,104.9,0.0,2024-09-27,Recruitment,Friday
+-,SunGod,Sun God Lawn,107.0,0.0,2024-09-28,Social,Saturday
+-,Price Center,Price Center East Ballroom,3066.22,0.6262,2024-09-29,Social,Sunday
+-,Price Center,PC West Ballroom,4499.66,0.6089,2024-09-30,Social,Monday
+-,Price Center,Forum,78.63,2.7979,2024-09-30,GBM,Monday
+-,Pepper Canyon,Cross Cultural Center - Communidad,433.16,0.0,2024-09-30,GBM,Monday
+-,Mandeville Auditorium,Huerta-Vera Cruz Room,599.84,0.5668,2024-10-01,Social,Tuesday
+-,Price Center,Price Center - Forum,595.0,4.5882000000000005,2024-10-01,Speaker,Tuesday
+-,Revelle,NSB Auditorium,163.18,0.49029999999999996,2024-10-01,GBM,Tuesday
+-,Pepper Canyon,ASML,600.0,2.5333,2024-10-01,Recruitment,Tuesday
+-,Price Center,Bear Room and Red Shoe Room,540.91,0.7395,2024-10-01,GBM,Tuesday
+No,SunGod,SunGod Lawn,213.99,1.8225,2024-10-01,Social,Tuesday
+-,Price Center,Marshall College Room,129.92,7.312200000000001,2024-10-01,GBM,Tuesday
+-,Scripps,Vaughan Hall,132.85,0.0,2024-10-01,GBM,Tuesday
+-,Mandeville Auditorium,Multipurpose Room,1291.0,0.6429,2024-10-01,Recruitment,Tuesday
+-,Warren,Qualcomm Room,595.0,1.4285999999999999,2024-10-02,Workshop,Wednesday
+-,Price Center,Price Center ERC Room,41.42,5.7943,2024-10-02,Social,Wednesday
+-,Price Center,Red Shoe Room,216.58,2.1701,2024-10-02,Social,Wednesday
+-,Pepper Canyon,EnVision,498.34,1.806,2024-10-02,GBM,Wednesday
+-,Pepper Canyon,SME 248,206.88,1.8368000000000002,2024-10-02,Social,Wednesday
+-,Price Center,Price Center Green Table Room,343.47,1.1064,2024-10-02,GBM,Wednesday
+-,Warren,Henry Booker Room,227.08,0.2642,2024-10-02,Workshop,Wednesday
+-,Price Center,Bear room at price center,322.98,0.030999999999999917,2024-10-02,Social,Wednesday
+-,Student Services Center,Student Services Center - Conference Room 400,92.13,0.0,2024-10-02,Speaker,Wednesday
+-,Student Services Center,Student Services Center Multipurpose Room,1845.76,0.9535,2024-10-02,GBM,Wednesday
+-,Warren,Computer Science & Engineering Building - CSE1202,600.0,0.0,2024-10-03,GBM,Thursday
+-,Pepper Canyon,SME ASML Room,595.0,0.9748,2024-10-03,Recruitment,Thursday
+-,Price Center,Price Center Forum,582.57,1.0986,2024-10-03,Speaker,Thursday
+-,Price Center,Price Center - Bear Room,59.7,0.0,2024-10-03,GBM,Thursday
+No,Warren,CSE Basement B225,91.74,2.8341000000000003,2024-10-03,Workshop,Thursday
+-,Pepper Canyon,raza Centro Space PPCH #104,191.79,0.0,2024-10-03,GBM,Thursday
+-,Warren,Fung Auditorium - PFBH,417.75,2.5613,2024-10-03,GBM,Thursday
+No,Price Center,Governance Chambers,279.87,2.2153,2024-10-03,GBM,Thursday
+-,Price Center,Price Center - Red Shoe Room,275.0,0.0,2024-10-03,Competition,Thursday
+-,Price Center,"Price Center, Red Shoe Room + Bear Room",319.21,5.0437,2024-10-04,Social,Friday
+-,Warren,Qualcomm Room,595.0,1.7311,2024-10-04,Workshop,Friday
+-,Mandeville Auditorium,Multi Purpose Room,120.0,10.083300000000001,2024-10-04,GBM,Friday
+-,Pepper Canyon,SME 248 ASML Conference Center,600.0,0.3667,2024-10-04,Recruitment,Friday
+No,Mandeville Auditorium,Matthews Quad,1487.5,0.0,2024-10-04,Social,Friday
+-,Warren,CSE B225,135.35,2.5119999999999996,2024-10-04,Workshop,Friday
+-,Price Center,Price center Bear Room,184.91,1.7306,2024-10-04,Social,Friday
+-,Warren,Fung Auditorium,598.93,0.7513,2024-10-04,GBM,Friday
+-,Price Center,Green Table Room,100.0,2.7,2024-10-04,GBM,Friday
+-,Pepper Canyon,SME 347,275.71,0.9793,2024-10-04,Social,Friday
+-,Price Center,Price Center - The Forum,600.0,1.25,2024-10-04,GBM,Friday
+-,Revelle,Natural Science Building (NSB) 3211,107.64,0.0,2024-10-04,GBM,Friday
+-,SunGod,Sun God Lawn,591.33,1.9617,2024-10-04,Recruitment,Friday
+-,Price Center,Price Center Red Shoe Room,80.0,1.75,2024-10-04,Social,Friday
+-,Mandeville Auditorium,Student Center - Dolores Huerta - Philip Vera Cruz Room,296.31,1.0125,2024-10-06,Recruitment,Sunday
+-,Pepper Canyon,SME 248,328.64,1.7040000000000002,2024-10-07,GBM,Monday
+-,Warren,Henry Booker Room,595.0,1.5293999999999999,2024-10-07,Social,Monday
+-,Mandeville Auditorium,Stage Room & Patio,597.2,2.495,2024-10-07,Social,Monday
+No,Mandeville Auditorium,Student Services Center - Multi Purpose Room,1925.0,1.3766,2024-10-08,GBM,Tuesday
+-,Pepper Canyon,SME ASML Room,595.0,0.0,2024-10-08,Workshop,Tuesday
+-,Price Center,Price Center Forum,352.0,2.2443,2024-10-08,GBM,Tuesday
+-,Mandeville Auditorium,Student Center Huerta- Vera Cruz,200.0,0.0,2024-10-08,Social,Tuesday
+-,Price Center,Price Center Bear Room,350.0,1.3143,2024-10-08,GBM,Tuesday
+-,Warren,CSE B225,152.03,1.9733,2024-10-08,Workshop,Tuesday
+-,Price Center,Ballroom West A,69.99,0.0,2024-10-08,Recruitment,Tuesday
+-,Price Center,Price Center Theater,339.41,0.5303,2024-10-08,Social,Tuesday
+-,Price Center,PC West Green Table Room,338.07,1.6269,2024-10-09,GBM,Wednesday
+-,Pepper Canyon,SME ASML Room,595.0,1.8151000000000002,2024-10-09,Social,Wednesday
+-,Price Center,Price Center Theater,320.3,7.430499999999999,2024-10-09,GBM,Wednesday
+-,Price Center,Price Center Bear Room,216.58,1.2005,2024-10-09,GBM,Wednesday
+-,Price Center,Price Center ERC Room,115.21,3.1247,2024-10-09,GBM,Wednesday
+-,Pepper Canyon,EnVision,349.11,1.8904999999999998,2024-10-09,GBM,Wednesday
+-,Price Center,Green Table Room Price Center,170.0,0.8824,2024-10-09,GBM,Wednesday
+-,Price Center,Marshall College Room (Price Center),344.01,0.7558,2024-10-09,GBM,Wednesday
+-,Mandeville Auditorium,Matthews Quad,336.5,0.0,2024-10-09,Speaker,Wednesday
+-,Price Center,Price Center Marshall Room,241.94,1.488,2024-10-09,Social,Wednesday
+-,Muir,Fred Kavli Auditorium,600.0,0.7167,2024-10-09,Workshop,Wednesday
+-,Warren,Henry Booker Room 2512,227.79,0.4829,2024-10-09,Workshop,Wednesday
+-,Revelle,NSB atrium,163.27,1.9599,2024-10-10,GBM,Thursday
+-,Price Center,Price Center Forum,590.0,0.0,2024-10-10,GBM,Thursday
+-,Price Center,Price Center Governance Chambers,82.88,6.998099999999999,2024-10-10,GBM,Thursday
+-,Pepper Canyon,SME ASML Room,595.0,0.5546,2024-10-10,Workshop,Thursday
+-,Price Center,PC East Ballroom,1814.99,0.8154,2024-10-10,GBM,Thursday
+-,SunGod,Sun God Lawn,350.0,0.0,2024-10-10,Social,Thursday
+-,Price Center,Price Center Ballroom West B,589.31,0.0,2024-10-10,GBM,Thursday
+-,SunGod,Sun God Lawn,344.8,0.609,2024-10-10,Social,Thursday
+-,Price Center,Price Center Bear Room,350.0,0.02859999999999996,2024-10-10,GBM,Thursday
+-,Price Center,Price Center Warren College Room,296.31,0.03370000000000006,2024-10-10,Recruitment,Thursday
+-,Warren,Powell-Focht Bioengineering Hall,296.31,0.9112,2024-10-10,GBM,Thursday
+-,Warren,Powell-Focht Bioengineering Hall Rm 291,199.34,0.4013,2024-10-10,GBM,Thursday
+-,Pepper Canyon,raza Centro Space PPCH #104,191.79,0.0,2024-10-10,GBM,Thursday
+-,Pepper Canyon,SME 348,291.87,0.7538,2024-10-10,Social,Thursday
+-,Warren,Zweifach Library - PFBH,334.03,0.0,2024-10-10,Workshop,Thursday
+-,Price Center,Price Center - Green Table Room,123.6,0.9709,2024-10-10,Workshop,Thursday
+-,Pepper Canyon,SME ASML Room,600.0,1.7167,2024-10-11,Social,Friday
+-,Library Walk,Library Walk (1979 Block),360.0,0.0,2024-10-11,Other,Friday
+-,Pepper Canyon,SME 248 ASML Conference Center,600.0,0.016700000000000048,2024-10-11,GBM,Friday
+-,Warren,Qualcomm Conference Center,597.75,1.5391,2024-10-11,Social,Friday
+-,Warren,CSE B225,313.99,0.5732999999999999,2024-10-11,Workshop,Friday
+-,Warren,Henry Booker Room,302.78,0.46240000000000003,2024-10-11,Competition,Friday
+-,Price Center,Price Center Theater,397.0,1.4358,2024-10-11,GBM,Friday
+-,Price Center,Bear Room,174.65,2.6911,2024-10-11,GBM,Friday
+-,Price Center,Red Shoe Room,198.37,0.857,2024-10-11,GBM,Friday
+-,Price Center,Marshall College Room,471.99,1.7161,2024-10-11,GBM,Friday
+-,Price Center,Green Table Room,326.63,0.0,2024-10-11,Speaker,Friday
+-,Revelle,Natural Science Building (NSB) 3211,120.0,0.0,2024-10-11,GBM,Friday
+-,Warren,CSE 1202,225.36,0.044399999999999995,2024-10-11,GBM,Friday
+-,SunGod,sun god lawn,190.93,0.3665999999999999,2024-10-11,Social,Friday
+-,Price Center,Price Center - Green Table Room,275.0,0.10909999999999997,2024-10-11,Competition,Friday
+-,Warren,Warren Mall,314.82,1.6517,2024-10-11,Workshop,Friday
+-,Price Center,"East Ballroom, ERC Room, Revelle College Room, PC Theater",3831.0,1.0572,2024-10-12,Social,Saturday
+-,Warren,Powell-Focht Bioengineering Hall Rm 291,270.45,0.40670000000000006,2024-10-14,GBM,Monday
+-,Mandeville Auditorium,Student Center,190.0,0.0,2024-10-14,Recruitment,Monday
+-,Price Center,Price Center Marshall Room,543.06,1.0496,2024-10-14,Recruitment,Monday
+No,Price Center,PC Ballroom East,1780.71,0.4212,2024-10-14,GBM,Monday
+-,Price Center,Price Center Forum,484.57,1.135,2024-10-14,Social,Monday
+-,SunGod,Sungod Lawn,405.5,1.0604,2024-10-14,Social,Monday
+-,Price Center,PC Theater,287.59,0.0,2024-10-14,GBM,Monday
+-,Price Center,Marshall College Room,266.03,0.03760000000000008,2024-10-15,GBM,Tuesday
+-,Warren,Powell-Focht Bioengineering Hall Rm 291,119.35,0.0,2024-10-15,GBM,Tuesday
+No,Price Center,The Forum,600.0,1.4667,2024-10-15,GBM,Tuesday
+-,Price Center,Price Center - Ballroom West A,595.0,2.3529,2024-10-15,GBM,Tuesday
+No,Price Center,PC West Bear Room,349.43,1.0875,2024-10-15,Social,Tuesday
+-,Warren,Qualcomm Room,595.0,0.9916,2024-10-15,Workshop,Tuesday
+-,Revelle,Bonner Hall 2130,307.09,3.1912000000000003,2024-10-15,Recruitment,Tuesday
+-,Pepper Canyon,SME 248,211.08,0.9001,2024-10-15,Workshop,Tuesday
+-,Mandeville Auditorium,Student Center Huerta- Vera Cruz,599.09,0.4173,2024-10-15,Religion,Tuesday
+-,Price Center,Price Center - Eleanor Roosevelt College Room,351.0,1.396,2024-10-15,GBM,Tuesday
+-,Mandeville Auditorium,Multipurpose Room,120.0,12.75,2024-10-15,GBM,Tuesday
+-,Price Center,Price Center Warren Room,284.0,1.0915,2024-10-15,Social,Tuesday
+-,Warren,Powell-Focht Bioengineering Hall Rm 291,103.55,0.0,2024-10-16,GBM,Wednesday
+-,Revelle,Natural Sciences Building,599.99,0.35,2024-10-16,GBM,Wednesday
+-,Pepper Canyon,EnVision,349.11,1.3749,2024-10-16,GBM,Wednesday
+-,Price Center,Price Center Theatre,600.0,1.3333,2024-10-16,GBM,Wednesday
+-,Warren,Jacobs Hall 2315,344.8,0.8411,2024-10-16,Workshop,Wednesday
+Yes,Price Center,Green Table Room,86.25,3.7100999999999997,2024-10-16,Speaker,Wednesday
+Yes,Price Center,Price Center-Red Shoe Room,187.38,1.3342,2024-10-16,Social,Wednesday
+-,Price Center,Bear Room Price Center,303.5,0.9885,2024-10-16,Workshop,Wednesday
+-,Warren,Henry Booker Room 2512,277.79,0.07200000000000006,2024-10-16,Workshop,Wednesday
+Yes,Revelle,NSB atrium,163.18,0.9192,2024-10-17,GBM,Thursday
+No,Price Center,Price Center- Green Table Room,348.01,0.02870000000000006,2024-10-17,GBM,Thursday
+-,Mandeville Auditorium,Stage Room,313.5,0.0,2024-10-17,Speaker,Thursday
+-,Price Center,The Forum,343.8,0.8144,2024-10-17,Social,Thursday
+-,Price Center,PC West Green Table Room,338.07,0.6212,2024-10-17,Social,Thursday
+-,Price Center,Price Center - Red Shoe Room,595.0,0.7059,2024-10-17,Speaker,Thursday
+-,Warren,CSE B225,178.05,0.8425,2024-10-17,Workshop,Thursday
+No,Warren,CSE B225,97.24,1.6454,2024-10-17,Workshop,Thursday
+-,Price Center,Price Center Theater,172.4,0.9861,2024-10-17,Speaker,Thursday
+-,Pepper Canyon,raza Centro Space PPCH #104,191.79,1.5642,2024-10-17,GBM,Thursday
+-,Mandeville Auditorium,Student Center - Dolores Huerta - Philip Vera Cruz Room,560.3,0.6068,2024-10-17,GBM,Thursday
+-,Price Center,Eleanor Roosevelt college room,286.4,0.0,2024-10-17,Speaker,Thursday
+-,Pepper Canyon,ASML Conference Center,156.24,1.6000999999999999,2024-10-18,GBM,Friday
+No,Pepper Canyon,ASML Room,521.49,0.2876000000000001,2024-10-18,Social,Friday
+-,Price Center,Price Center - Bear Room,350.0,0.6286,2024-10-18,Social,Friday
+-,Price Center,Red Shoe Room,147.5,2.1017,2024-10-18,Social,Friday
+-,Revelle,Natural Science Building (NSB) 3211,27.98,0.0,2024-10-18,GBM,Friday
+-,Price Center,Price Center Warren College Room,80.0,0.0,2024-10-18,Social,Friday
+-,Mandeville Auditorium,Student Services Center: Multipurpose Room & Town Square,2000.0,1.6,2024-10-19,Social,Saturday
+No,Warren,Qualcomm Conference Center (both rooms),600.0,0.0,2024-10-19,Social,Saturday
+-,Pepper Canyon,SME 248,316.0,0.6961999999999999,2024-10-21,Recruitment,Monday
+-,Price Center,Ballroom West A,597.2,2.428,2024-10-21,Social,Monday
+-,Price Center,The Forum,350.0,1.7143000000000002,2024-10-22,Social,Tuesday
+-,Price Center,Price Center Marshall Room,543.06,0.44189999999999996,2024-10-22,Recruitment,Tuesday
+-,Warren,Computer Science & Engineering Building - CSE1202,453.12,2.6704,2024-10-22,Recruitment,Tuesday
+-,Pepper Canyon,SME 248,378.63,1.2149,2024-10-22,Recruitment,Tuesday
+-,Price Center,Green Table Room (Price Center),214.42,1.9121,2024-10-23,GBM,Wednesday
+Yes,Price Center,Price Center ERC Room,41.42,4.1043,2024-10-23,Social,Wednesday
+Yes,Pepper Canyon,EnVision,349.11,1.4036,2024-10-23,GBM,Wednesday
+Yes,Price Center,Warren College Room,92.5,2.5946,2024-10-23,Speaker,Wednesday
+Yes,Price Center,Price Center ERC Room,258.6,1.2761,2024-10-23,Workshop,Wednesday
+No,Price Center,ERC Room,298.14,0.6708000000000001,2024-10-23,GBM,Wednesday
+No,Price Center,Eleanor Roosevelt College Room,350.0,1.0286,2024-10-24,Social,Thursday
+Yes,Revelle,NSB atrium,163.18,0.8579,2024-10-24,GBM,Thursday
+Yes,Mandeville Auditorium,Student Center - Dolores Huerta - Philip Vera Cruz Room,350.0,0.7429,2024-10-24,GBM,Thursday
+Yes,Warren,CSE B225,231.27,0.4756,2024-10-24,Workshop,Thursday
+Not Found,Pepper Canyon,ASML Room,339.99,0.5,2024-10-24,Workshop,Thursday
+No,Price Center,PC Ballroom West B,2280.71,0.10959999999999992,2024-10-24,Speaker,Thursday
+Not Found,Pepper Canyon,Raza Centro Space PPCH #104,191.79,1.9292,2024-10-24,GBM,Thursday
+No,Price Center,Price Center Forum,570.0,0.7368,2024-10-24,Speaker,Thursday
+Yes,Warren,Henry Booker Room 2512,598.75,0.3340000000000001,2024-10-24,Workshop,Thursday
+Not Found,Price Center,Red Shoe Room,350.0,0.0,2024-10-25,Speaker,Friday
+-,Price Center,Price Center East Ballroom,600.0,0.0,2024-10-25,Social,Friday
+No,Warren,Warren SAC,594.78,0.0,2024-10-25,Religion,Friday
+Yes,Price Center,Marshall College Room,147.5,0.7458,2024-10-25,Social,Friday
+Not Found,Revelle,Natural Science Building (NSB) 3211,85.9,0.0,2024-10-25,GBM,Friday
+Not Found,Warren,Henry Booker Room 2512,293.08,0.0,2024-11-23,Competition,Saturday
+Yes,Price Center,"East Ballroom, ERC Room, Forum, Marshall Room, Revelle Room, Theater",2899.27,0.9071,2024-10-27,Recruitment,Sunday
+No,Price Center,Price Center Ballrooms AB,2409.95,2.083,2024-10-27,Social,Sunday
+Yes,Warren,Henry Booker Room,344.8,0.7831,2024-10-28,Speaker,Monday
+No,Pepper Canyon,ASML Room,192.46,1.0911,2024-10-28,Social,Monday
+No,Warren,Zweifach Library - PFBH,42.89,4.4299,2024-10-28,Social,Monday
+No,Pepper Canyon,transfer hub,281.79,0.9582,2024-10-28,Other,Monday
+No,Warren,Qualcomm Room in Jacobs Hall,470.27,0.8718,2024-10-29,GBM,Tuesday
+Yes,Mandeville Auditorium,Stage Room & Patio,595.0,0.9412,2024-10-29,GBM,Tuesday
+Yes,Warren,Henry Booker Room,595.0,0.7395,2024-10-29,Workshop,Tuesday
+Yes,Pepper Canyon,SME 248,255.84,1.0553,2024-10-29,Social,Tuesday
+-,Price Center,Warren College Room @ Price Center,189.0,0.0,2024-10-29,Workshop,Tuesday
+No,Price Center,Marshall College Room,500.0,0.0,2024-10-29,Other,Tuesday
+-,Price Center,Green Table Room,66.08,0.0,2024-10-29,Social,Tuesday
+No,Price Center,PC East,567.0,0.0,2024-10-29,Workshop,Tuesday
+Yes,Revelle,Natural Sciences Building,599.99,0.4667,2024-10-30,GBM,Wednesday
+-,Price Center,Price Center - Warren College Room,595.0,0.0,2024-10-30,Social,Wednesday
+Yes,Price Center,Price Center Marshall Room,242.5,1.0309,2024-10-30,Recruitment,Wednesday
+No,Mandeville Auditorium,Dolores Huerta Meeting Room,296.31,0.7087,2024-10-30,Speaker,Wednesday
+Yes,Pepper Canyon,SME 248 ASML Conference Center,600.0,0.0,2024-10-30,Speaker,Wednesday
+Yes,Price Center,Price Center Theater,573.69,2.2137000000000002,2024-10-30,GBM,Wednesday
+Yes,Pepper Canyon,EnVision,349.11,1.0885,2024-10-30,GBM,Wednesday
+Yes,Price Center,"Price Center, Ballroom A",1154.71,0.9526,2024-10-30,Religion,Wednesday
+No,Mandeville Auditorium,Matthew's Quad,209.79,1.3822999999999999,2024-10-30,Religion,Wednesday
+-,Price Center,PC East Ballroom,2000.0,0.645,2024-10-31,Religion,Thursday
+Yes,North Campus,Triton Esports Center,600.0,2.15,2024-10-31,Social,Thursday
+-,Pepper Canyon,raza Centro Space PPCH #104,191.49,0.10439999999999994,2024-10-31,GBM,Thursday
+Yes,Price Center,Price Center Forum,573.45,1.2730000000000001,2024-10-31,Social,Thursday
+Not Found,Library Walk,Outdoor Tabling Library Walk 1984,90.91,0.0,2024-10-31,Recruitment,Thursday
+No,Revelle,Natural Science Building (NSB) 3211,63.57,0.0,2024-11-01,GBM,Friday
+Yes,Price Center,Price Center West Ballroom AB + East Ballroom + John Muir College Room + Marshall College Room + ERC College Room,6412.7,0.8779,2024-11-02,Social,Saturday
+No,North Campus,Rimac Activity Room 3,200.0,0.09999999999999998,2024-11-02,Workshop,Saturday
+No,SunGod,Sun God Lawn,229.67,0.0,2024-11-02,Social,Saturday
+Yes,Price Center,Marshall College Room,334.56,1.0462,2024-11-04,Workshop,Monday
+No,Price Center,Green Table Room,246.49,0.8925,2024-11-04,Social,Monday
+Yes,Wong-Avery,Skaggs School of Pharmacy HSEC Classrooms 2&3,365.11,0.4656,2024-11-05,Social,Tuesday
+Yes,Warren,Zweifach Library at PFBH (4th Floor),296.31,1.0125,2024-11-05,Speaker,Tuesday
+-,Price Center,Warren College Room,386.0,1.114,2024-11-05,GBM,Tuesday
+-,Price Center,Price Center ERC Room,115.21,1.4756,2024-11-06,GBM,Wednesday
+Yes,Pepper Canyon,EnVision,300.0,1.2667,2024-11-06,GBM,Wednesday
+No,Price Center,Price Center - Red Shoe Room,336.89,0.9202,2024-11-06,GBM,Wednesday
+Yes,Price Center,Eleanor Roosevelt College Room,250.78,0.7975,2024-11-07,Workshop,Thursday
+Yes,Pepper Canyon,Raza Centro Space PPCH #104,234.59,0.9378,2024-11-07,Workshop,Thursday
+Yes,Revelle,NSB Auditorium,163.18,0.0,2024-11-07,Speaker,Thursday
+No,Price Center,Marshall College Room,199.47,0.05010000000000003,2024-11-07,GBM,Thursday
+Not Found,Price Center,Red shoe room,261.2,0.0,2024-11-07,Social,Thursday
+-,Price Center,Price Center West,1290.18,0.3255,2024-11-08,Social,Friday
+No,Price Center,Price Center - Marshall College Room,348.0,0.6609,2024-11-08,GBM,Friday
+No,Mandeville Auditorium,The Hump,209.42,0.0,2024-11-08,Recruitment,Friday
+No,Price Center,Price Center West Ballroom AB,2486.46,0.0,2024-11-10,Religion,Sunday
+Yes,Warren,Zweifach Library - PFBH,125.49,0.9563,2024-11-12,Speaker,Tuesday
+No,Price Center,Price Center - Eleanor Roosevelt College Room,300.0,0.3667,2024-11-12,GBM,Tuesday
+Yes,Mandeville Auditorium,Stage Room,271.53,0.0,2024-11-12,GBM,Tuesday
+-,Pepper Canyon,ASML Room,400.0,0.0,2024-11-12,GBM,Tuesday
+-,Warren,CSE 1202,307.09,0.8141,2024-11-12,Social,Tuesday
+Yes,Price Center,Price Center ERC Room,216.58,1.5236999999999998,2024-11-13,Social,Wednesday
+Yes,Pepper Canyon,Envision,300.0,1.3333,2024-11-13,GBM,Wednesday
+No,Price Center,Price Center Green Table Room,58.5,2.3932,2024-11-13,Social,Wednesday
+No,Warren,Powell-Focht Bioengineering Hall Room 291,143.23,0.0,2024-11-13,Social,Wednesday
+No,Price Center,Bear room,597.84,0.3345,2024-11-13,GBM,Wednesday
+-,Revelle,NSB Auditorium,163.18,0.2451000000000001,2024-11-14,GBM,Thursday
+-,Mandeville Auditorium,Student Services Center Multipurpose Room,981.44,0.0,2024-11-14,Competition,Thursday
+-,Price Center,Price Center Ballroom East,688.37,0.6682,2024-11-14,GBM,Thursday
+-,SunGod,Sun God Lawn,10.57,17.0293,2024-11-14,Social,Thursday
+-,Pepper Canyon,RRC room 104,218.36,0.0,2024-11-14,Speaker,Thursday
+-,Price Center,Bear Room,197.34,0.0,2024-11-21,Social,Thursday
+-,Warren,Qualcomm Room,597.9,0.9533,2024-11-14,GBM,Thursday
+-,Price Center,Marshall College Room,400.0,1.525,2024-11-14,Social,Thursday
+-,Price Center,Ballroom West AB,1092.31,0.0,2024-11-15,Social,Friday
+-,Revelle,Natural Science Building,333.0,1.1712,2024-11-15,GBM,Friday
+-,Price Center,Price Center ERC Room,85.72,1.6332,2024-11-15,Workshop,Friday
+-,Warren,Qualcomm Conference Center,550.0,1.1273,2024-11-15,Social,Friday
+-,Mandeville Auditorium,Outdoor Events Hump,800.0,0.4375,2024-11-16,Social,Saturday
+-,Mandeville Auditorium,Multipurpose Room,210.0,0.0,2024-11-16,Social,Saturday
+-,Warren,Henry Booker Room,227.49,0.0,2024-11-16,Workshop,Saturday
+-,Pepper Canyon,ASML,198.17,0.0,2024-11-16,Workshop,Saturday
+-,Pepper Canyon,"Structural and Materials Engineering Building, Room 348",171.86,1.1056,2024-11-18,Workshop,Monday
+-,Mandeville Auditorium,Stage Room & Patio,597.2,1.9089,2024-11-18,Social,Monday
+-,Price Center,Price Center - Green Table Room,307.97,0.0,2024-11-18,Workshop,Monday
+-,Mandeville Auditorium,Student Services Center Multipurpose Room,800.0,0.7125,2024-11-18,Social,Monday
+-,Price Center,Price Center Marshall Room,199.47,1.504,2024-11-19,GBM,Tuesday
+-,Warren,Qualcomm Room in Jacobs Hall,216.58,1.8931,2024-11-19,GBM,Tuesday
+-,Price Center,Price Center - Bear Room,41.42,4.3457,2024-11-19,Social,Tuesday
+-,Price Center,Price Center Forum,504.4,2.8548999999999998,2024-11-19,Recruitment,Tuesday
+-,North Campus,Wells Fargo Hall 1N108,426.51,0.5627,2024-11-19,Social,Tuesday
+-,Price Center,Warren College Room,400.0,0.0,2024-11-20,Social,Wednesday
+-,Wong-Avery,Skaggs School of Pharmacy HSEC Classrooms 2&3,557.0,0.32319999999999993,2024-11-20,Social,Wednesday
+-,Pepper Canyon,Envision,300.0,1.4,2024-11-20,GBM,Wednesday
+-,Price Center,Green Table Room in Price,89.48,1.4528,2024-11-20,Social,Wednesday
+-,Price Center,Price Center Red Shoe Room,342.7,0.0,2024-11-20,Social,Wednesday
+-,Price Center,Price Center Theatre,773.91,1.7056,2024-11-20,GBM,Wednesday
+-,Warren,Qualcomm Conference Center (both rooms),280.0,0.9643,2024-11-20,Speaker,Wednesday
+-,Online,ONLINE,180.0,0.7222,2024-11-20,GBM,Wednesday
+-,Price Center,Cross Cultural Center - Art Space,180.75,1.6598000000000002,2024-11-20,Social,Wednesday
+-,Muir,Muir Field,323.25,0.0,2024-11-21,Competition,Thursday
+-,Warren,CSE 1242,275.0,0.8364,2024-11-21,Social,Thursday
+-,Revelle,NSB Auditorium,163.18,0.12260000000000004,2024-11-21,GBM,Thursday
+-,Price Center,Price Center West Ballroom A,600.0,1.1667,2024-11-21,Social,Thursday
+-,Mandeville Auditorium,Student Center: Dolores Huerta / Philip Vera Cruz Meeting Room,109.14,1.9241,2024-11-21,GBM,Thursday
+-,Price Center,Price Center - Marshall Room,172.4,1.2181,2024-11-21,GBM,Thursday
+-,Price Center,Price Center Bear Room,395.72,1.2635,2024-11-21,Social,Thursday
+-,Price Center,Warren College room- Price Center,397.64,0.8299,2024-11-21,Workshop,Thursday
+-,Price Center,PC Ballroom East,1192.92,0.7209,2024-11-21,GBM,Thursday
+-,Price Center,The Forum (Price Center),282.25,0.8149,2024-11-21,Social,Thursday
+-,Warren,CSE 1202,517.09,1.4891,2024-11-21,GBM,Thursday
+-,Warren,Qualcomm Conference Center,550.0,0.7455,2024-11-21,GBM,Thursday
+-,Pepper Canyon,SME 348,277.13,0.5052000000000001,2024-11-21,Social,Thursday
+-,Price Center,Price Center - Warren College Room,272.36,0.18359999999999999,2024-11-22,Social,Friday
+-,Warren,CSE Building Room 4140,244.27,0.9006000000000001,2024-11-22,GBM,Friday
+-,Library Walk,Library Walk,2501.55,0.6195999999999999,2024-11-22,Social,Friday
+-,Price Center,Bear Room,253.85,1.1818,2024-11-22,Social,Friday
+-,SunGod,Sun God Lawn,1076.62,0.2508,2024-11-22,Social,Friday
+-,Warren,CSE B225,201.91,0.04949999999999999,2024-11-22,Workshop,Friday
+-,Price Center,Cross Cultural Center - Community Room,484.88,1.1343,2024-11-22,Social,Friday
+-,Price Center,Warren College Room,172.97,0.0,2024-11-23,Social,Saturday
+-,Theater District,Molli and Arthur Dance Building Studio 3,100.0,2.4,2024-11-23,Social,Saturday
+-,Price Center,Price Center Ballroom East,422.38,0.0,2024-11-23,Social,Saturday
+-,Warren,CSE Basement,987.64,0.0,2024-11-24,Social,Sunday
+-,Price Center,Price Center Theater,482.5,1.6995,2024-11-24,Social,Sunday
+-,Pepper Canyon,ASML Room,650.0,1.1385,2024-11-25,GBM,Monday
+-,Price Center,Marshall College Room,400.0,0.0,2024-11-25,Workshop,Monday
+-,Pepper Canyon,ASML Room,401.58,0.07469999999999999,2024-11-26,Speaker,Tuesday
+-,Pepper Canyon,ASML Room,400.0,0.17500000000000004,2024-11-26,GBM,Tuesday
+-,Pepper Canyon,SME 248 ASML Conference Center,510.74,0.9398,2024-11-26,Social,Tuesday
+-,Warren,CSE 1202,404.67,1.5568,2024-11-26,Recruitment,Tuesday
+-,Price Center,Warren College Room,388.98,0.6684000000000001,2024-11-26,GBM,Tuesday
+-,Price Center,Price Center - Red Shoe Room,301.67,0.6960999999999999,2024-11-27,Social,Wednesday
+-,Price Center,Price Center Ballroom East,340.0,1.1764999999999999,2024-12-02,Social,Monday
+-,Warren,Qualcomm Room,280.0,0.4286,2024-12-02,Workshop,Monday
+-,Mandeville Auditorium,LGBT Resource Center,97.99,1.3267,2024-12-02,Social,Monday
+-,North Campus,ASANTE 123AD,226.29,1.0164,2024-12-02,GBM,Monday
+-,Price Center,Price Center - Red Shoe Room,128.83,0.0,2024-12-02,Social,Monday
+-,Price Center,Ballroom West B,641.03,1.6536,2024-12-02,Social,Monday
+-,Price Center,Warren College Room,235.35,0.0,2024-12-03,Social,Tuesday
+-,Price Center,Price Center Ballroom AB,490.26,0.8771,2024-12-03,Recruitment,Tuesday
+-,Pepper Canyon,Envision,300.0,1.1667,2024-12-04,Social,Wednesday
+-,Revelle,Natural Science Building,451.0,0.51,2024-12-04,GBM,Wednesday
+-,Price Center,Price Center Ballroom East,240.0,9.0,2024-12-04,Recruitment,Wednesday
+-,Pepper Canyon,ASML Room,281.19,0.5334000000000001,2024-12-04,Social,Wednesday
+-,Price Center,Bear Room,200.0,0.050000000000000044,2024-12-04,Social,Wednesday
+-,Price Center,Price Center Red Shoe Room,390.0,1.0769,2024-12-04,Social,Wednesday
+-,Pepper Canyon,Cross Cultural Center - Art Space,258.6,1.0828,2024-12-04,Social,Wednesday
+-,Price Center,Eleanor Roosevelt College Room,264.94,0.9059,2024-12-05,Competition,Thursday
+-,Revelle,NSB Auditorium,163.18,0.8579,2024-12-05,GBM,Thursday
+,Price Center,Bear Room,384.0,0.8332999999999999,2024-12-05,Social,Thursday
+,Mandeville Auditorium,Mandeville East Room,449.48,0.7342,2024-12-05,Social,Thursday
+,Mandeville Auditorium,Student Center Huerta- Vera Cruz,559.23,0.5006999999999999,2024-12-05,Religion,Thursday
+,Price Center,Price Center Theater,450.0,0.0,2024-12-05,Social,Thursday
+,Warren,Qualcomm Conference Center,53.75,4.2791,2024-12-05,Social,Thursday
+,Price Center,Warren College Room,396.77,0.5797,2024-12-05,Social,Thursday
+,Price Center,Price Center Theater,525.0,0.7048,2024-12-06,Social,Friday
+,Pepper Canyon,SME 347,195.0,0.10260000000000002,2024-12-06,Social,Friday
+,Price Center,Bear Room,351.24,0.6548,2024-12-06,GBM,Friday
+,Price Center,Warren College Room - Price,246.75,0.9726,2024-12-06,Social,Friday
+,Muir,Playing Fields(MUIR FIELD),346.42,0.7217,2024-12-07,Social,Saturday
+,Price Center,Price Center Theater,500.0,0.0,2024-12-08,Social,Sunday
+Not Found,Price Center,Red Shoe Room,500.0,0.0,2025-01-03,Religion,Friday
+Not Found,Price Center,Price Center - Red Shoe Room,350.0,1.4285999999999999,2025-01-06,Religion,Monday
+Not Found,Price Center,PC Ballroom East,1483.03,0.0,2025-01-06,GBM,Monday
+No,Price Center,Price Center Ballroom B,641.03,2.0436,2025-01-06,Social,Monday
+Not Found,Mandeville Auditorium,Student Center - Dolores Huerta - Philip Vera Cruz Room,400.0,0.7,2025-01-07,GBM,Tuesday
+No,Warren,"Warren Mall [1, 2, 3]",4000.0,0.5700000000000001,2025-01-07,Social,Tuesday
+Yes,Price Center,Eleanor Roosevelt College Room,37.66,5.3107,2025-01-07,Competition,Tuesday
+Yes,Price Center,Price Center Theater,182.4,0.16449999999999998,2025-01-08,GBM,Wednesday
+Yes,Pepper Canyon,EnVision,300.0,0.7667,2025-01-08,GBM,Wednesday
+No,Price Center,Price Center Red Shoe Room,,,2025-01-08,GBM,Wednesday
+Not Found,Mandeville Auditorium,MPR,565.35,0.0,2025-01-08,Social,Wednesday
+Yes,Warren,CSE1202,774.52,0.4132,2025-01-08,GBM,Wednesday
+Yes,Price Center,Price Center ERC Room,210.0,1.1429,2025-01-08,Social,Wednesday
+Yes,Price Center,PC East Ballroom,1038.23,2.3116,2025-01-08,GBM,Wednesday
+Yes,Pepper Canyon,SME 248,189.61,1.3185,2025-01-09,Social,Thursday
+Not Found,Mandeville Auditorium,Student Center: Dolores Huerta / Philip Vera Cruz Meeting Room,273.47,0.0,2025-01-09,GBM,Thursday
+Not Found,Price Center,Red Shoe Room,398.88,0.3259000000000001,2025-01-09,Social,Thursday
+Yes,Price Center,Price Center - Bear Room,323.84,0.6793,2025-01-09,GBM,Thursday
+Yes,Warren,Fung auditorium,371.8,1.9903,2025-01-09,GBM,Thursday
+No,Price Center,Price Center - Eleanor Roosevelt College Room,500.0,0.4,2025-01-09,Competition,Thursday
+Yes,Price Center,Price Center East Ballroom,600.0,0.7667,2025-01-09,GBM,Thursday
+Not Found,Warren,Qualcomm Room,259.57,1.6181,2025-01-09,Recruitment,Thursday
+Yes,Price Center,Price Center Bear Room,210.0,1.3333,2025-01-10,GBM,Friday
+Yes,Price Center,"UCSD Game Room, Price Center",210.65,0.7596,2025-01-10,Social,Friday
+Yes,Price Center,Price Center Forum,149.54,1.6718000000000002,2025-01-10,Social,Friday
+Yes,Warren,Qualcomm Conference Center,386.3,0.5953999999999999,2025-01-10,GBM,Friday
+Yes,Pepper Canyon,Design and Innovation Building Room 208,319.76,4.1906,2025-01-10,GBM,Friday
+No,Wong-Avery,UCSD School of Medicine Campus MET Lower Auditorium,912.32,0.0,2025-01-12,GBM,Sunday
+No,Mandeville Auditorium,Student Services Center Multi-Purpose Room,120.0,0.0,2025-01-13,Recruitment,Monday
+Yes,Price Center,PC Theater,333.13,3.5422,2025-01-13,GBM,Monday
+Yes,Pepper Canyon,SME 248,344.8,1.0151,2025-01-13,GBM,Monday
+Not Found,Warren,CSE Room 1202,299.55,2.003,2025-01-13,GBM,Monday
+Yes,Price Center,Marshall College Room,196.43,0.8145,2025-01-13,GBM,Monday
+No,Price Center,Price Center ERC Room,,,2025-01-14,GBM,Tuesday
+Yes,Warren,Qualcomm Conference Center,510.74,0.48950000000000005,2025-01-14,GBM,Tuesday
+Yes,Warren,Henry Booker Room,537.94,0.7807999999999999,2025-01-14,GBM,Tuesday
+No,Price Center,The Forum,393.29,0.9408,2025-01-14,Speaker,Tuesday
+No,Mandeville Auditorium,Student Services Center Multi Purpose Room,210.0,0.0,2025-01-14,Recruitment,Tuesday
+Yes,Warren,Warren Mall,232.07,0.5171,2025-01-14,Social,Tuesday
+No,Price Center,Price Center Marshall Room,412.96,1.8404,2025-01-14,GBM,Tuesday
+No,Pepper Canyon,SME 248,182.5,2.3014,2025-01-14,GBM,Tuesday
+No,Pepper Canyon,SME 248,182.5,2.3014,2025-01-14,GBM,Tuesday
+Yes,Price Center,PC West Green Table Room,216.58,1.9854,2025-01-15,GBM,Wednesday
+Yes,Price Center,Price Center ERC Room,93.22,2.2527,2025-01-15,GBM,Wednesday
+No,Price Center,Price Center - Warren College Room,279.0,0.0,2025-01-15,GBM,Wednesday
+Not Found,Revelle,Bonner Hall 2130,74.75,0.0,2025-01-15,GBM,Wednesday
+Not Found,Pepper Canyon,EnVision,300.0,2.0,2025-01-15,Recruitment,Wednesday
+Not Found,Warren,B225,347.49,0.0,2025-01-15,Workshop,Wednesday
+No,Price Center,Price Center – Ballroom | West B,297.35,0.0,2025-01-15,GBM,Wednesday
+No,Pepper Canyon,ASML Room,239.41,0.0,2025-01-16,Social,Thursday
+Yes,Price Center,Price Center Bear Room,495.65,0.2623000000000001,2025-01-16,GBM,Thursday
+Yes,Price Center,Warren College Room,400.0,0.7,2025-01-16,Workshop,Thursday
+Not Found,Warren,B225,347.49,0.40290000000000004,2025-01-16,Workshop,Thursday
+Not Found,Price Center,UCSD PC Gameroom,312.41,0.7362,2025-01-16,Social,Thursday
+No,Price Center,Price Center Green Table Room,439.44,0.5689,2025-01-17,GBM,Friday
+Yes,Mandeville Auditorium,The Stageroom,1500.0,0.6799999999999999,2025-01-17,Workshop,Friday
+Yes,Price Center,Price Center Red Shoe Room & Bear Room,438.37,2.2356,2025-01-17,GBM,Friday
+Yes,Muir,Kavli Auditorium,1668.75,0.39549999999999996,2025-01-17,GBM,Friday
+Yes,Price Center,Price Center West Ballroom AB,1606.89,1.1949,2025-01-17,Workshop,Friday
+Yes,Price Center,Price Center - Forum,326.96,1.7433,2025-01-17,GBM,Friday
+Not Found,Warren,EBU 1 Qualcomm Room,193.95,1.2374,2025-01-17,Workshop,Friday
+No,Price Center,ERC Room,591.69,0.9971,2025-01-17,GBM,Friday
+Yes,Pepper Canyon,SME 248,179.94,0.778,2025-01-17,Recruitment,Friday
+Yes,Price Center,Bear Room and Red Shoe Room,201.92,0.0,2025-01-18,Speaker,Saturday
+Not Found,Price Center,Price Center Ballroom West B,1434.75,0.8085,2025-01-18,Competition,Saturday
+Yes,Price Center,Price Center East Ballroom,554.33,4.0229,2025-01-18,GBM,Saturday
+Not Found,Warren,Qualcomm Conference Room,599.0,0.4174,2025-01-20,Recruitment,Monday
+No,Pepper Canyon,SME ASML Room,193.95,0.0,2025-01-20,Workshop,Monday
+Not Found,Pepper Canyon,SME ASML Room,299.55,0.0,2025-01-20,Workshop,Monday
+No,Pepper Canyon,ASML Room,231.21,1.0813,2025-01-21,Social,Tuesday
+Yes,Price Center,Price Center ERC Room,93.22,1.6091,2025-01-21,GBM,Tuesday
+Yes,Pepper Canyon,SME 248,569.2,0.6676,2025-01-21,Recruitment,Tuesday
+Not Found,Pepper Canyon,SME ASML Room,259.57,0.3081999999999999,2025-01-21,Recruitment,Tuesday
+Yes,Pepper Canyon,SME 348,173.59,1.1521,2025-01-21,Speaker,Tuesday
+Yes,Price Center,Price Center - Marshall College Room,156.7,1.8506999999999998,2025-01-21,Social,Tuesday
+Yes,Price Center,Price Center Bear Room,296.31,0.5737,2025-01-21,GBM,Tuesday
+Yes,Warren,"Henry Booker Room, Jacobs Hall",400.0,0.675,2025-01-21,Recruitment,Tuesday
+Not Found,Mandeville Auditorium,Multipurpose Room,120.0,0.0,2025-01-21,GBM,Tuesday
+Not Found,Pepper Canyon,EnVision,300.0,1.3333,2025-01-22,Recruitment,Wednesday
+No,Price Center,Price Center ERC Room,86.0,2.3256,2025-01-22,Workshop,Wednesday
+Yes,Wong-Avery,Campus reservations,273.07,0.6592,2025-01-22,Speaker,Wednesday
+Yes,Price Center,Price Center Green Table Room,178.5,0.8964,2025-01-22,Workshop,Wednesday
+Yes,Price Center,Price Center - Bear Room,344.8,0.7831,2025-01-22,Religion,Wednesday
+No,Price Center,Red Shoe Room,80.0,1.875,2025-01-22,GBM,Wednesday
+Yes,Pepper Canyon,SME 248,215.5,1.4849,2025-01-22,GBM,Wednesday
+Not Found,Warren,Zweifach Library - PFBH,210.98,0.0,2025-01-22,Social,Wednesday
+Yes,Warren,Fung Auditorium at the Powell-Focht Bioengineering Hall,112.23,2.9404,2025-01-22,GBM,Wednesday
+Not Found,Price Center,Marshall College Room,,1.0,2025-01-23,Speaker,Thursday
+Yes,Price Center,PC West Green Table Room,200.0,0.95,2025-01-23,Social,Thursday
+Not Found,Price Center,Marshall College Room,248.9,1.0446,2025-01-23,GBM,Thursday
+Yes,Warren,Jacobs Hall 2315,105.06,1.3326,2025-01-23,Workshop,Thursday
+Yes,Warren,Henry Booker Room,285.0,0.6315999999999999,2025-01-23,Competition,Thursday
+No,Price Center,Price Center Marshall Room,189.05,2.2744999999999997,2025-01-24,GBM,Friday
+Not Found,Pepper Canyon,SME 248 ASML Conference Center,288.0,0.7292000000000001,2025-01-24,GBM,Friday
+Not Found,Price Center,Price Center Red Shoe Room,349.5,0.5722,2025-01-24,GBM,Friday
+Not Found,Student Services Center,Town Square,3647.41,0.5593,2025-01-24,Recruitment,Friday
+No,Sixth,Urban Studies and Planning Studio (RWAC 0104),250.0,1.04,2025-01-24,GBM,Friday
+Yes,Warren,Henry Booker Room,505.89,0.33599999999999997,2025-01-24,Speaker,Friday
+No,Warren,Henry Booker Room,189.53,0.7914,2025-01-24,Workshop,Friday
+Yes,Warren,"Henry Booker Room, Jacobs Hall",700.0,0.5286,2025-01-25,Recruitment,Saturday
+Not Found,Pepper Canyon,ASML Room,134.69,1.2622,2025-01-27,Workshop,Monday
+No,North Campus,ASANTE 123D,216.58,0.0,2025-01-27,GBM,Monday
+Yes,Warren,"Henry Booker Room, Jacobs Hall",400.0,0.5,2025-01-27,Recruitment,Monday
+Yes,Price Center,PC West Ballroom AB,1412.5,0.09909999999999997,2025-01-27,Religion,Monday
+Yes,Revelle,NSB Auditorium,250.0,0.28,2025-01-27,GBM,Monday
+Not Found,Warren,Henry Booker Room,198.17,0.8074,2025-01-27,Speaker,Monday
+No,Price Center,Price Center Theather,659.26,0.9708,2025-01-27,Competition,Monday
+Not Found,Price Center,Marshall College Room,376.4,0.0,2025-01-27,Social,Monday
+Not Found,Price Center,Green Table Room PC,300.0,0.0,2025-01-27,Competition,Monday
+No,Price Center,Price Center - Red Shoe Room,500.0,0.0,2025-01-28,GBM,Tuesday
+No,Price Center,Price Center ERC Room,216.58,0.7848999999999999,2025-01-28,GBM,Tuesday
+Yes,Price Center,Marshall College Room,237.02,1.1813,2025-01-28,Workshop,Tuesday
+No,Pepper Canyon,SME 248,178.81,1.4541,2025-01-28,Workshop,Tuesday
+Not Found,Pepper Canyon,EnVision,300.0,1.0667,2025-01-29,Recruitment,Wednesday
+No,Warren,Henry Booker,100.18,0.9982,2025-01-29,Workshop,Wednesday
+Not Found,Pepper Canyon,ASML Room,549.53,0.8007,2025-01-29,Religion,Wednesday
+Yes,Price Center,Price Center Marshall Room,305.47,1.6040999999999999,2025-01-29,Religion,Wednesday
+Yes,Price Center,Price Center Bear Room,510.0,0.6667000000000001,2025-01-29,Social,Wednesday
+Yes,Pepper Canyon,ASML Room,147.84,1.7587000000000002,2025-01-29,Workshop,Wednesday
+Yes,Warren,B225,215.39,0.6964,2025-01-29,Workshop,Wednesday
+Not Found,Pepper Canyon,SME ASML Room,134.69,0.0,2025-01-30,Workshop,Thursday
+Yes,Price Center,PC Forum,382.51,0.6536,2025-01-30,Speaker,Thursday
+No,Price Center,Price Center - Sixth College Room,59.54,0.0,2025-01-30,Workshop,Thursday
+Yes,Price Center,Bear Room,300.0,0.4,2025-01-30,Recruitment,Thursday
+Yes,Warren,Warren Mall,263.72,0.5309,2025-01-30,Social,Thursday
+Not Found,Price Center,Marshall College Room,376.4,0.0,2025-01-30,Social,Thursday
+Yes,Revelle,NSB atrium,,,2025-01-31,GBM,Friday
+Yes,Warren,Qualcomm Conference Room,552.27,1.1045,2025-01-31,Workshop,Friday
+Yes,Price Center,Bear Room,297.27,1.3456000000000001,2025-01-31,Workshop,Friday
+Not Found,Price Center,PC East Ballroom,,,2025-02-01,Workshop,Saturday
+Not Found,Price Center,Price Center Dance Studio,280.53,0.0,2025-02-01,Social,Saturday
+Yes,Price Center,Price Center Ball Room B,3518.75,0.13069999999999993,2025-02-01,Religion,Saturday
+Yes,Warren,Jacobs School of Engineering Classroom 2315,584.1,0.18830000000000002,2025-02-01,Competition,Saturday
+Not Found,Mandeville Auditorium,"Dolores Huerta - Philip Vera Cruz Room, Student Center",157.56,6.9815,2025-02-01,Social,Saturday
+No,Warren,Henry Booker Room,862.0,0.05799999999999994,2025-02-01,Competition,Saturday
+No,Warren,Qualcomm Conference Center and Classroom 2509,1163.27,0.30090000000000006,2025-02-01,Competition,Saturday
+No,Scripps,Vaughn 100,78.18,0.0,2025-02-03,GBM,Monday
+Yes,Price Center,Price Center West Ballroom B,742.24,1.8592,2025-02-03,Social,Monday
+Not Found,Warren,Fishbowl (CSE B225),134.69,0.0,2025-02-03,Workshop,Monday
+Yes,Price Center,Price Center Forum,366.36,1.0918,2025-02-03,Social,Monday
+Yes,Warren,Qualcomm Conference Center,510.74,0.6461,2025-02-04,GBM,Tuesday
+Not Found,Warren,Henry Booker Room,216.58,1.8007,2025-02-04,GBM,Tuesday
+No,Warren,PFBH 489 (Zweifach Library),261.59,0.9939,2025-02-04,Social,Tuesday
+Yes,Pepper Canyon,ASML Room,273.79,0.40180000000000005,2025-02-04,Social,Tuesday
+Not Found,Pepper Canyon,EnVision,300.0,1.2667,2025-02-05,Recruitment,Wednesday
+Yes,Mandeville Auditorium,LGBT Resource Center,161.37,1.2394,2025-02-05,GBM,Wednesday
+No,Price Center,Price Center Red Shoe Room,400.0,0.75,2025-02-05,Religion,Wednesday
+Yes,Price Center,Marshall College Room,242.5,0.7010000000000001,2025-02-05,Social,Wednesday
+Not Found,Mandeville Auditorium,Dolores Huerta - Philip Vera Cruz Room,559.95,0.7142999999999999,2025-02-05,Religion,Wednesday
+Not Found,Mandeville Auditorium,Multipurpose Room,700.0,0.0,2025-02-05,Social,Wednesday
+Not Found,Warren,Fishbowl (CSE B225),134.69,1.6334,2025-02-05,Workshop,Wednesday
+Yes,Pepper Canyon,SME 248,597.59,0.6694,2025-02-06,Recruitment,Thursday
+Yes,Warren,Fung Auditorium at Powell-Focht Bioengineering Hall,182.4,2.1382,2025-02-06,GBM,Thursday
+Not Found,Price Center,PC Ballroom East,1293.59,0.7035,2025-02-06,GBM,Thursday
+Not Found,Price Center,Price Center Bear Room,280.0,0.0,2025-02-06,Workshop,Thursday
+Not Found,Warren,Fishbowl (CSE B225),134.69,0.6682,2025-02-06,Workshop,Thursday
+No,Mandeville Auditorium,Huerta- Vera Cruz,441.78,0.0,2025-02-07,Religion,Friday
+No,Pepper Canyon,Cross Cultural Center Art Space,293.31,0.6136999999999999,2025-02-07,Social,Friday
+Not Found,Warren,Fishbowl (CSE B225),134.69,0.6682,2025-02-07,Social,Friday
+Not Found,Price Center,PC Theater,800.0,0.0,2025-02-08,Workshop,Saturday
+Not Found,Warren,Henry Booker Room,274.0,0.0,2025-02-08,Workshop,Saturday
+Yes,Mandeville Auditorium,Mandeville Auditorium,5000.0,0.0,2025-02-09,Religion,Sunday
+Yes,Revelle,NSB Auditorium,,1.0,2025-02-10,GBM,Monday
+Not Found,Library Walk,Library Walk,343.83,0.6399,2025-02-10,Religion,Monday
+Not Found,Revelle,Pac Hall 3500,65.0,1.5385,2025-02-10,GBM,Monday
+No,Mandeville Auditorium,Multi-Purpose Room Student Services Center,1528.58,0.2551000000000001,2025-02-10,Social,Monday
+Not Found,Pepper Canyon,Cross Cultural Center - Community Room,216.58,1.2467000000000001,2025-02-10,GBM,Monday
+,Pepper Canyon,ASML Room,243.4,0.6163000000000001,2025-02-10,Social,Monday
+Not Found,Price Center,Earl Warren Room,19.9,3.0151,2025-02-10,Speaker,Monday
+Not Found,Price Center,Governance Chamber,150.86,0.6629,2025-02-10,GBM,Monday
+Yes,Student Services Center,Student Services Center - Conference Room 300,173.48,0.8069999999999999,2025-02-10,GBM,Monday
+No,Price Center,Price Center Bear Room,216.58,0.8773,2025-02-11,GBM,Tuesday
+Not Found,Mandeville Auditorium,LGBT Resource Center,172.45,0.05799999999999994,2025-02-11,Social,Tuesday
+Not Found,Library Walk,Library Walk,263.41,1.2528000000000001,2025-02-11,Religion,Tuesday
+No,Price Center,Green Table Room,247.4,0.20209999999999995,2025-02-11,Social,Tuesday
+Not Found,Mandeville Auditorium,Student Center Stage Room,384.5,0.44210000000000005,2025-02-11,Speaker,Tuesday
+Not Found,Warren,CSE 1202,233.19,0.04290000000000005,2025-02-11,Workshop,Tuesday
+,Warren,B225,330.0,0.9697,2025-02-11,Competition,Tuesday
+No,Price Center,PC Theater,1999.85,0.31000000000000005,2025-02-11,Social,Tuesday
+Yes,Pepper Canyon,SME 248,140.0,2.0713999999999997,2025-02-11,Social,Tuesday
+Not Found,Pepper Canyon,EnVision,300.0,0.9333,2025-02-12,Recruitment,Wednesday
+Yes,Pepper Canyon,MAVERiC Studio (room 436 in Design and Innovation Building),181.46,1.2124,2025-02-12,Social,Wednesday
+No,Mandeville Auditorium,Multi-Purpose Room Student Services Center,1481.94,0.45210000000000006,2025-02-12,Social,Wednesday
+Yes,Revelle,Bonner Hall 2140,132.3,0.0,2025-02-12,Social,Wednesday
+Not Found,Library Walk,Library Walk,263.41,0.7593,2025-02-12,Religion,Wednesday
+Not Found,Price Center,Price Center Red Shoe Room,95.6,0.0,2025-02-12,Workshop,Wednesday
+No,Price Center,Price Center - Eleanor Roosevelt College Room,344.58,0.4353,2025-02-12,GBM,Wednesday
+Yes,Price Center,Green Table Room,200.0,0.5,2025-02-12,Social,Wednesday
+Not Found,North Campus,Otterson Hall 1S114,296.31,0.7087,2025-02-12,GBM,Wednesday
+Yes,Pepper Canyon,ASML Room,474.1,1.0335,2025-02-12,GBM,Wednesday
+Yes,Pepper Canyon,Cross Cultural Center - Art Space,178.2,0.8418,2025-02-12,Workshop,Wednesday
+Yes,Price Center,PC Theater,467.97,0.8975,2025-02-12,GBM,Wednesday
+Yes,Price Center,Red shoe Room,598.05,0.3679,2025-02-13,Speaker,Thursday
+Yes,Price Center,Price Center Warren Room,198.16,0.9588,2025-02-13,Social,Thursday
+No,North Campus,Triton Esports Center,203.07,5.4661,2025-02-13,Social,Thursday
+No,Price Center,Price Center (ERC Room),101.66,0.09840000000000004,2025-02-13,Social,Thursday
+No,Price Center,"Price Center, Governance Chambers",100.0,0.0,2025-02-13,GBM,Thursday
+No,Price Center,Price Center - Green Table Room,70.0,2.5713999999999997,2025-02-13,Speaker,Thursday
+No,Price Center,Price Center Green Table Room,500.85,0.9384,2025-02-13,Social,Thursday
+Not Found,Library Walk,Library Walk,404.5,0.8653,2025-02-13,GBM,Thursday
+No,Mandeville Auditorium,Multi-Purpose Room Student Services Center,1529.86,0.3791,2025-02-13,Social,Thursday
+Not Found,Price Center,Bear Room,147.5,1.9661,2025-02-14,Social,Friday
+Yes,Warren,ECE Makerspace,164.76,0.9711,2025-02-14,Workshop,Friday
+No,Warren,EBU2 classrooms,86.09,3.1363,2025-02-15,Workshop,Saturday
+Not Found,SunGod,Sun God Lawn,397.32,0.5789,2025-02-15,Social,Saturday
+Yes,Price Center,Price Center,10402.7,0.9853,2025-02-15,Social,Saturday
+Not Found,Off Campus,Mesa Nueva - CA-A192B Large Conference Room,143.85,0.139,2025-02-17,Workshop,Monday
+Not Found,Price Center,Price Center (ERC Room),200.0,0.8,2025-02-18,GBM,Tuesday
+Yes,Warren,B225,215.39,1.8107,2025-02-18,Workshop,Tuesday
+Yes,Mandeville Auditorium,Multipurpose Room,120.0,0.0,2025-02-18,GBM,Tuesday
+No,Revelle,NSB Atrium/Auditorium,279.98,0.0,2025-02-18,Speaker,Tuesday
+Not Found,Price Center,Price Center Warren Room,251.85,0.35739999999999994,2025-02-18,Speaker,Tuesday
+,Price Center,ERC Room - Price Center,200.0,0.0,2025-02-18,GBM,Tuesday
+,Price Center,Governance Chambers,289.99,0.0,2025-02-18,Social,Tuesday
+,Warren,Henry Booker Room,232.63,0.42990000000000006,2025-02-18,Speaker,Tuesday
+,Warren,Qualcomm Conference Room,366.35,0.0,2025-02-18,Social,Tuesday
+,Price Center,Price Center West Ballroom AB,2000.0,,2025-02-19,Social,Wednesday
+,Revelle,NSB atrium,397.64,,2025-02-19,Social,Wednesday
+,Pepper Canyon,EnVision,300.0,,2025-02-19,Recruitment,Wednesday
+,Price Center,Red Shoe Room,32.61,,2025-02-19,Workshop,Wednesday
+,North Campus,Otterson Hall 1S114,393.29,,2025-02-19,GBM,Wednesday
+,Price Center,Price Center - Marshall College Room,103.09,,2025-02-20,GBM,Thursday
+,Price Center,Price Center - Warren College Room,208.3,,2025-02-20,Speaker,Thursday
+,Price Center,Bear Room,105.46,,2025-02-20,Workshop,Thursday
+,Student Services Center,Student Services Center - Conference Room 300,171.32,,2025-02-20,GBM,Thursday
+,Price Center,PC Forum,797.8,,2025-02-20,Speaker,Thursday
+,Warren,Qualcomm Room,592.63,,2025-02-20,Speaker,Thursday
+,Wong-Avery,Skaggs School of Pharmacy HSEC Classrooms 2&3,39.8,,2025-02-20,Social,Thursday
+,Warren,Henry Booker Room,98.53,,2025-02-20,Social,Thursday
+,Scripps,Vaughn 100,263.99,,2025-02-21,Speaker,Friday
+,Price Center,Price Center - Marshall College Room,103.09,,2025-02-21,GBM,Friday
+,Price Center,Price Center Red Shoe Room,148.75,,2025-02-21,Social,Friday
+,Warren,CSE 1202,772.67,,2025-02-21,Speaker,Friday
+,Price Center,Marshall College Room,300.0,,2025-02-21,Social,Friday
+,Warren,Henry Booker Room,242.44,,2025-02-22,Competition,Saturday
+,Price Center,Price Center Dance Studio,160.0,,2025-02-22,Speaker,Saturday
+,Price Center,Price Center Ballroom East,1500.0,,2025-02-22,Religion,Saturday
+,Mandeville Auditorium,International Championship of Collegiate A Cappella (@ Mandeville Auditorium at UC San Diego),400.0,,2025-02-22,Competition,Saturday
+,Warren,Franklin Antonio Hall IGE Space,246.0,,2025-02-24,Recruitment,Monday
+,Mandeville Auditorium,Stage Room + Patio,606.23,,2025-02-24,Speaker,Monday
+,Warren,Qualcomm Room,247.83,,2025-02-24,Workshop,Monday
+,Price Center,Price Center Warren Rm,501.51,,2025-02-24,Social,Monday
+,Revelle,NSB Auditorium,179.34,,2025-02-24,GBM,Monday
+Not Found,Price Center,Price Center Red Shoe Room,277.5,,2025-02-25,Workshop,Tuesday
+Not Found,Mandeville Auditorium,Student Center Huerta-Vera Cruz,280.0,0.0,2025-02-27,Social,Thursday
